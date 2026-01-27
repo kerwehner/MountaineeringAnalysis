@@ -1,0 +1,501 @@
+Date,Name,Nationality,Age,Gender,Cause_of_Death,Altitude_meters,Location,Location_in_Meters,Route,Season,Weather_Conditions,Experience_Level,Experience_Level_Meters,Expedition_Company
+1/5/2020,Li Yang,Czech Republic,56,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Geneva Spur,,East Face,Winter (Dec-Feb),Whiteout,Intermediate,1-2 previous 8000m peaks,Independent/Private
+1/14/2020,Aiko Thomas,Finland,27,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Death Zone,above 8000m,East Face,Winter (Dec-Feb),Snowstorm,Experienced,3-5 previous 8000m peaks,Asian Trekking
+1/14/2020,Ingrid Torres,France,67,Male,Hypothermia,5364,Death Zone,above 8000m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Mixed conditions,Experienced,3-5 previous 8000m peaks,Himalayan Experience
+1/18/2020,Wang Li,Brazil,36,Female,Falling,6065,Camp 3,7162m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),High winds,Expert,6+ previous 8000m peaks,Summit Climb
+1/25/2020,Chen Lewis,United States,53,Male,Avalanche,8750,South Summit,8750m,Southwest Face,Winter (Dec-Feb),High winds,Intermediate,1-2 previous 8000m peaks,Adventure Consultants
+2/12/2020,Jean Harris,Switzerland,34,Male,Weather exposure,8400,South Summit,8750m,South Col Route (Nepal),Winter (Dec-Feb),Mixed conditions,Experienced,3-5 previous 8000m peaks,Altitude Junkies
+2/12/2020,Mei Bianchi,Japan,58,Male,Avalanche,6400,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Mixed conditions,Professional Guide,,Seven Summits Treks
+2/14/2020,Andrew Patel,Brazil,30,Female,Exhaustion,8750,Western Cwm,,West Ridge,Winter (Dec-Feb),Blizzard,Novice,First 8000m peak,Peak Freaks
+2/17/2020,Thomas Mitchell,Italy,30,Male,Falling,8848,Khumbu Icefall,,South Col Route (Nepal),Winter (Dec-Feb),Blizzard,Experienced,3-5 previous 8000m peaks,Climbing the Seven Summits
+2/25/2020,Elena Hall,France,26,Male,Falling,8000,Camp 1,6065m,South Col Route (Nepal),Winter (Dec-Feb),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Adventure Consultants
+3/9/2020,Zhang Liu,United States,34,Male,Sudden cardiac event,8000,Balcony,8400m,North Face,Summer (Jun-Aug),Clear,Professional Guide,,Seven Summits Treks
+3/12/2020,Luca Schneider,Belgium,38,Female,Frostbite complications,8400,Geneva Spur,,South Col Route (Nepal),Summer (Jun-Aug),Snowstorm,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+3/13/2020,Natalia Sanchez,Czech Republic,28,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Cloudy,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+3/13/2020,Donna Singh,Spain,21,Female,Crevasse fall,6400,Death Zone,above 8000m,East Face,Summer (Jun-Aug),Mixed conditions,Professional Guide,,Peak Freaks
+3/14/2020,Aiko Müller,Netherlands,34,Male,Crevasse fall,8000,Camp 3,7162m,West Ridge,Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Adventure Consultants
+3/20/2020,Nancy Ricci,France,34,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Summit,8848m,South Col Route (Nepal),Summer (Jun-Aug),Clear,Novice,First 8000m peak,International Mountain Guides
+3/21/2020,Paul Torres,Japan,28,Male,Altitude Sickness (AMS/HAPE/HACE),6400,Yellow Band,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),High winds,Intermediate,1-2 previous 8000m peaks,Madison Mountaineering
+3/23/2020,Andrew Singh,Poland,36,Male,Rockfall,8750,Khumbu Icefall,,Southwest Face,Summer (Jun-Aug),Blizzard,Novice,First 8000m peak,Asian Trekking
+3/25/2020,Kimberly Watanabe,Italy,26,Female,Altitude Sickness (AMS/HAPE/HACE),8750,South Summit,8750m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Snowstorm,Intermediate,1-2 previous 8000m peaks,Summit Climb
+3/27/2020,Kenji Jones,Switzerland,29,Male,Falling,8000,Yellow Band,,North Face,Summer (Jun-Aug),Snowstorm,Professional Guide,,Peak Freaks
+4/3/2020,Sofia Weber,Japan,27,Male,Hypothermia,8848,Summit,8848m,North Face,Spring (Apr-May),Blizzard,Intermediate,1-2 previous 8000m peaks,Elite Exped
+4/7/2020,Mark Fischer,Spain,44,Male,Pulmonary edema,7162,Balcony,8400m,East Face,Spring (Apr-May),Cloudy,Sherpa,,Altitude Junkies
+4/7/2020,David Kozlov,United States,22,Female,Avalanche,8750,Yellow Band,,South Col Route (Nepal),Spring (Apr-May),High winds,Sherpa,,Summit Climb
+4/15/2020,Wolfgang Mitchell,Netherlands,63,Female,Hypothermia,8790,Western Cwm,,East Face,Spring (Apr-May),Mixed conditions,Professional Guide,,Adventure Consultants
+4/16/2020,Priya Huang,Israel,38,Female,Avalanche,7162,Hillary Step,8790m,South Col Route (Nepal),Spring (Apr-May),Clear,Professional Guide,,Furtenbach Adventures
+4/22/2020,Jennifer Jones,Netherlands,23,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Lhotse Face,,West Ridge,Spring (Apr-May),Mixed conditions,Expert,6+ previous 8000m peaks,Jagged Globe
+4/30/2020,Yuki Kumar,Norway,45,Female,Falling,6065,Base Camp,5364m,East Face,Spring (Apr-May),Whiteout,Sherpa,,International Mountain Guides
+4/30/2020,Luca Thompson,Czech Republic,50,Male,Hypothermia,8000,Summit,8848m,East Face,Spring (Apr-May),Extreme cold,Experienced,3-5 previous 8000m peaks,Summit Climb
+5/3/2020,Alexei Davis,Australia,28,Male,Altitude Sickness (AMS/HAPE/HACE),6400,Camp 1,6065m,South Col Route (Nepal),Spring (Apr-May),Blizzard,Sherpa,,Adventure Consultants
+5/4/2020,Aiko Thomas,Japan,28,Male,Weather exposure,8790,Camp 2,6400m,East Face,Spring (Apr-May),Whiteout,Experienced,3-5 previous 8000m peaks,Madison Mountaineering
+5/9/2020,Wei Thomas,Belgium,24,Female,Frostbite complications,6065,Khumbu Icefall,,East Face,Spring (Apr-May),Clear,Expert,6+ previous 8000m peaks,Elite Exped
+5/9/2020,Linda Dubois,Argentina,35,Male,Falling,8400,Western Cwm,,Northeast Ridge Route (Tibet),Spring (Apr-May),Cloudy,Professional Guide,,Madison Mountaineering
+5/16/2020,Daniel Schneider,Japan,27,Female,Falling,8400,Khumbu Icefall,,East Face,Spring (Apr-May),Extreme cold,Experienced,3-5 previous 8000m peaks,Summit Climb
+5/17/2020,James Taylor,Germany,45,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Western Cwm,,East Face,Spring (Apr-May),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Summit Climb
+5/20/2020,Wang Williams,Sweden,33,Female,Avalanche,8000,Summit,8848m,West Ridge,Spring (Apr-May),Snowstorm,Sherpa,,Mountain Madness
+5/25/2020,Olga Bernard,Netherlands,34,Female,Cerebral edema,8000,Khumbu Icefall,,Northeast Ridge Route (Tibet),Spring (Apr-May),Cloudy,Expert,6+ previous 8000m peaks,Furtenbach Adventures
+6/3/2020,Zhang King,South Korea,27,Female,Exhaustion,8790,Western Cwm,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Snowstorm,Expert,6+ previous 8000m peaks,Himalayan Experience
+6/3/2020,Michelle King,Switzerland,56,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Summit,8848m,Southwest Face,Summer (Jun-Aug),Blizzard,Professional Guide,,Summit Climb
+6/26/2020,Sandra Harris,Italy,31,Female,Exhaustion,8400,Balcony,8400m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Whiteout,Professional Guide,,Climbing the Seven Summits
+7/4/2020,Ashley Kozlov,United Kingdom,34,Female,Pulmonary edema,8000,Camp 1,6065m,East Face,Summer (Jun-Aug),Clear,Professional Guide,,Altitude Junkies
+7/6/2020,Barbara Kato,Germany,30,Female,Icefall,6065,Camp 2,6400m,South Col Route (Nepal),Summer (Jun-Aug),Cloudy,Novice,First 8000m peak,Alpine Ascents
+7/8/2020,Helga Romano,Brazil,54,Male,Frostbite complications,8400,Camp 2,6400m,East Face,Summer (Jun-Aug),Cloudy,Novice,First 8000m peak,Jagged Globe
+7/9/2020,Margaret Fischer,Sweden,31,Male,Falling,6065,Lhotse Face,,West Ridge,Summer (Jun-Aug),Snowstorm,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+7/12/2020,Greta Yamamoto,Nepal,25,Male,Rockfall,6400,Yellow Band,,Southwest Face,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,Madison Mountaineering
+7/21/2020,Andrew Suzuki,South Africa,44,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Camp 4,South Col - 8000m,West Ridge,Summer (Jun-Aug),Cloudy,Sherpa,,Asian Trekking
+7/21/2020,Olga Martin,Switzerland,63,Female,Hypothermia,8400,Hillary Step,8790m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Clear,Sherpa,,Madison Mountaineering
+7/22/2020,Elena Lee,Norway,34,Female,Weather exposure,6400,Camp 2,6400m,East Face,Summer (Jun-Aug),Cloudy,Sherpa,,Asian Trekking
+7/22/2020,Olga Russo,Italy,26,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Camp 1,6065m,West Ridge,Summer (Jun-Aug),Blizzard,Expert,6+ previous 8000m peaks,Climbing the Seven Summits
+7/31/2020,Mei Nelson,Denmark,28,Female,Altitude Sickness (AMS/HAPE/HACE),8790,South Summit,8750m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,Adventure Consultants
+8/1/2020,Barbara Rivera,Switzerland,57,Female,Falling,6065,Camp 2,6400m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Seven Summits Treks
+8/9/2020,Elena Esposito,Netherlands,25,Male,Altitude Sickness (AMS/HAPE/HACE),8400,South Summit,8750m,Southwest Face,Summer (Jun-Aug),Cloudy,Expert,6+ previous 8000m peaks,Jagged Globe
+8/12/2020,Ursula Carter,Switzerland,24,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Death Zone,above 8000m,Southwest Face,Summer (Jun-Aug),High winds,Expert,6+ previous 8000m peaks,Summit Climb
+8/13/2020,Li Leroy,Switzerland,30,Female,Sudden cardiac event,8000,Camp 2,6400m,South Col Route (Nepal),Summer (Jun-Aug),Clear,Experienced,3-5 previous 8000m peaks,Madison Mountaineering
+9/1/2020,Li Li,Canada,57,Male,Hypothermia,5364,Khumbu Icefall,,East Face,Summer (Jun-Aug),Extreme cold,Professional Guide,,International Mountain Guides
+9/8/2020,Margaret Rodriguez,South Korea,33,Female,Altitude Sickness (AMS/HAPE/HACE),6065,Camp 4,South Col - 8000m,West Ridge,Summer (Jun-Aug),Cloudy,Expert,6+ previous 8000m peaks,Alpine Ascents
+9/14/2020,Michael Sanchez,Finland,43,Male,Sudden cardiac event,8750,Yellow Band,,South Col Route (Nepal),Summer (Jun-Aug),Snowstorm,Novice,First 8000m peak,Adventure Consultants
+9/16/2020,Francesca Shah,Brazil,24,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Balcony,8400m,South Col Route (Nepal),Summer (Jun-Aug),Cloudy,Experienced,3-5 previous 8000m peaks,Elite Exped
+9/17/2020,Sophie Chen,Sweden,23,Male,Hypothermia,8000,Camp 4,South Col - 8000m,North Face,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,International Mountain Guides
+9/19/2020,Wang Zhao,Sweden,30,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Western Cwm,,North Face,Summer (Jun-Aug),Whiteout,Professional Guide,,Peak Freaks
+9/21/2020,Elena Ivanov,Norway,31,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Western Cwm,,West Ridge,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,Furtenbach Adventures
+9/24/2020,Sarah Hall,Brazil,33,Male,Hypothermia,8750,Khumbu Icefall,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Whiteout,Experienced,3-5 previous 8000m peaks,International Mountain Guides
+9/24/2020,David Kumar,United States,62,Female,Exhaustion,8000,Camp 2,6400m,East Face,Summer (Jun-Aug),Snowstorm,Expert,6+ previous 8000m peaks,Mountain Madness
+9/28/2020,Yan Lebedev,South Africa,34,Female,Pulmonary edema,6065,Summit,8848m,Southwest Face,Summer (Jun-Aug),Snowstorm,Sherpa,,Asian Trekking
+10/5/2020,Nancy Kumar,Brazil,23,Male,Hypothermia,8000,Balcony,8400m,West Ridge,Autumn (Oct-Nov),Blizzard,Expert,6+ previous 8000m peaks,Peak Freaks
+10/7/2020,Ingrid Adams,Brazil,46,Female,Exhaustion,8000,Summit,8848m,Southwest Face,Autumn (Oct-Nov),Clear,Professional Guide,,Asian Trekking
+10/14/2020,Hans Zhao,Netherlands,31,Male,Exhaustion,8750,Camp 4,South Col - 8000m,North Face,Autumn (Oct-Nov),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+10/16/2020,Priya Suzuki,South Africa,31,Male,Avalanche,7162,Geneva Spur,,East Face,Autumn (Oct-Nov),Extreme cold,Sherpa,,Himalayan Experience
+10/17/2020,Hiroshi Martin,Israel,68,Male,Exhaustion,8790,Khumbu Icefall,,East Face,Autumn (Oct-Nov),Blizzard,Sherpa,,Asian Trekking
+10/19/2020,Yan Tanaka,France,34,Female,Falling,6400,Summit,8848m,South Col Route (Nepal),Autumn (Oct-Nov),High winds,Professional Guide,,Summit Climb
+10/22/2020,François Jackson,Germany,24,Male,Exhaustion,8750,Balcony,8400m,Southwest Face,Autumn (Oct-Nov),Blizzard,Experienced,3-5 previous 8000m peaks,Adventure Consultants
+10/24/2020,Luca Ricci,Finland,28,Male,Hypothermia,8750,Lhotse Face,,Southwest Face,Autumn (Oct-Nov),Snowstorm,Intermediate,1-2 previous 8000m peaks,Madison Mountaineering
+10/27/2020,Paul Petrov,Russia,30,Female,Hypothermia,8750,Camp 3,7162m,North Face,Autumn (Oct-Nov),Extreme cold,Expert,6+ previous 8000m peaks,Mountain Madness
+10/29/2020,Donald Thomas,Norway,28,Male,Exhaustion,8000,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Cloudy,Experienced,3-5 previous 8000m peaks,International Mountain Guides
+11/1/2020,Sarah Thomas,Sweden,32,Female,Icefall,7162,Yellow Band,,East Face,Autumn (Oct-Nov),Whiteout,Experienced,3-5 previous 8000m peaks,Summit Climb
+11/1/2020,Elizabeth Nelson,Italy,50,Female,Hypothermia,8000,Hillary Step,8790m,East Face,Autumn (Oct-Nov),High winds,Expert,6+ previous 8000m peaks,Peak Freaks
+11/1/2020,Elena Nelson,Czech Republic,48,Female,Weather exposure,7162,Western Cwm,,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Whiteout,Sherpa,,Furtenbach Adventures
+11/5/2020,Elizabeth Campbell,Austria,35,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Western Cwm,,South Col Route (Nepal),Autumn (Oct-Nov),High winds,Experienced,3-5 previous 8000m peaks,International Mountain Guides
+11/8/2020,Yuki Durand,Denmark,25,Female,Pulmonary edema,8750,Death Zone,above 8000m,East Face,Autumn (Oct-Nov),High winds,Expert,6+ previous 8000m peaks,Madison Mountaineering
+11/19/2020,Sarah Anderson,Denmark,29,Female,Equipment failure,6400,Summit,8848m,South Col Route (Nepal),Autumn (Oct-Nov),Cloudy,Sherpa,,Asian Trekking
+11/26/2020,Sofia Petit,South Korea,33,Male,Exhaustion,7162,Camp 1,6065m,Southwest Face,Autumn (Oct-Nov),Whiteout,Intermediate,1-2 previous 8000m peaks,Elite Exped
+12/6/2020,Yuki Wilson,Denmark,58,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Camp 4,South Col - 8000m,North Face,Winter (Dec-Feb),Extreme cold,Professional Guide,,Climbing the Seven Summits
+12/8/2020,Barbara Popov,Denmark,66,Male,Rockfall,6065,Base Camp,5364m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Cloudy,Experienced,3-5 previous 8000m peaks,Furtenbach Adventures
+12/18/2020,Jessica Baker,Brazil,52,Female,Altitude Sickness (AMS/HAPE/HACE),8848,Death Zone,above 8000m,West Ridge,Winter (Dec-Feb),Mixed conditions,Experienced,3-5 previous 8000m peaks,Summit Climb
+12/18/2020,Barbara Young,Nepal,27,Male,Cerebral edema,8400,Camp 1,6065m,South Col Route (Nepal),Winter (Dec-Feb),High winds,Professional Guide,,Furtenbach Adventures
+12/21/2020,Ivan King,United Kingdom,27,Female,Exhaustion,8750,Death Zone,above 8000m,South Col Route (Nepal),Winter (Dec-Feb),Cloudy,Novice,First 8000m peak,Madison Mountaineering
+12/28/2020,Barbara Ito,Mexico,30,Male,Weather exposure,8790,South Summit,8750m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),High winds,Experienced,3-5 previous 8000m peaks,Climbing the Seven Summits
+1/5/2021,Joseph Taylor,New Zealand,25,Male,Exhaustion,8750,Hillary Step,8790m,North Face,Winter (Dec-Feb),Clear,Intermediate,1-2 previous 8000m peaks,Seven Summits Treks
+1/7/2021,Sophie White,United States,35,Male,Frostbite complications,7162,Khumbu Icefall,,Southwest Face,Winter (Dec-Feb),Extreme cold,Intermediate,1-2 previous 8000m peaks,Alpine Ascents
+1/10/2021,Betty Suzuki,New Zealand,32,Male,Falling,5364,Camp 3,7162m,North Face,Winter (Dec-Feb),Mixed conditions,Expert,6+ previous 8000m peaks,Altitude Junkies
+1/11/2021,Donna Patel,Italy,28,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Camp 4,South Col - 8000m,North Face,Winter (Dec-Feb),Snowstorm,Professional Guide,,Jagged Globe
+1/12/2021,Ashley Lopez,Australia,53,Female,Avalanche,8000,Yellow Band,,North Face,Winter (Dec-Feb),High winds,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+1/16/2021,Alexei Anderson,Poland,35,Male,Weather exposure,8750,Camp 4,South Col - 8000m,West Ridge,Winter (Dec-Feb),Whiteout,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+1/23/2021,Michael Davis,United States,27,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Hillary Step,8790m,Southwest Face,Winter (Dec-Feb),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+1/23/2021,Paul Suzuki,China,46,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Camp 4,South Col - 8000m,West Ridge,Winter (Dec-Feb),Clear,Sherpa,,International Mountain Guides
+1/26/2021,Alessandro Singh,Switzerland,28,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Base Camp,5364m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Blizzard,Expert,6+ previous 8000m peaks,Alpine Ascents
+1/28/2021,Matthew Yamamoto,Germany,55,Male,Hypothermia,8750,Camp 4,South Col - 8000m,Southwest Face,Winter (Dec-Feb),Clear,Intermediate,1-2 previous 8000m peaks,Summit Climb
+2/7/2021,Natalia Hernandez,Israel,52,Male,Falling,8750,Geneva Spur,,Southwest Face,Winter (Dec-Feb),Mixed conditions,Professional Guide,,Summit Climb
+2/11/2021,Karen Mehta,Mexico,26,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Lhotse Face,,West Ridge,Winter (Dec-Feb),Extreme cold,Novice,First 8000m peak,Jagged Globe
+2/13/2021,Francesca Gupta,United Kingdom,52,Male,Exhaustion,8000,Hillary Step,8790m,Southwest Face,Winter (Dec-Feb),High winds,Sherpa,,Climbing the Seven Summits
+2/16/2021,Michael Verma,Nepal,23,Male,Sudden cardiac event,8000,Balcony,8400m,South Col Route (Nepal),Winter (Dec-Feb),Snowstorm,Novice,First 8000m peak,Adventure Consultants
+3/2/2021,Ingrid Kato,China,22,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Yellow Band,,Southwest Face,Summer (Jun-Aug),Snowstorm,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+3/2/2021,Daniel Nguyen,Netherlands,24,Male,Exhaustion,8000,Balcony,8400m,North Face,Summer (Jun-Aug),Clear,Experienced,3-5 previous 8000m peaks,Independent/Private
+3/7/2021,Mei Popov,Russia,61,Male,Hypothermia,8400,Yellow Band,,South Col Route (Nepal),Summer (Jun-Aug),High winds,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+3/19/2021,Margaret Hall,South Korea,28,Female,Falling,5364,Camp 1,6065m,East Face,Summer (Jun-Aug),Cloudy,Expert,6+ previous 8000m peaks,Himalayan Experience
+4/7/2021,Sergei Watanabe,Mexico,44,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Khumbu Icefall,,East Face,Spring (Apr-May),Mixed conditions,Professional Guide,,International Mountain Guides
+4/8/2021,Ingrid Nelson,Italy,24,Male,Icefall,8000,Balcony,8400m,East Face,Spring (Apr-May),Clear,Sherpa,,Alpine Ascents
+4/11/2021,Steven Rivera,Germany,28,Male,Altitude Sickness (AMS/HAPE/HACE),8750,South Summit,8750m,Southwest Face,Spring (Apr-May),Whiteout,Novice,First 8000m peak,International Mountain Guides
+4/11/2021,Anthony Shah,Netherlands,30,Male,Avalanche,8400,Khumbu Icefall,,Northeast Ridge Route (Tibet),Spring (Apr-May),Extreme cold,Sherpa,,Mountain Madness
+4/11/2021,Alexei Brown,Norway,59,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Khumbu Icefall,,Northeast Ridge Route (Tibet),Spring (Apr-May),Whiteout,Expert,6+ previous 8000m peaks,Summit Climb
+4/15/2021,Alexei Watanabe,Spain,28,Female,Rockfall,8000,Lhotse Face,,East Face,Spring (Apr-May),Whiteout,Professional Guide,,Elite Exped
+4/16/2021,Wang Zhang,Israel,36,Male,Altitude Sickness (AMS/HAPE/HACE),8790,Yellow Band,,North Face,Spring (Apr-May),High winds,Sherpa,,Himalayan Experience
+4/19/2021,William Weber,South Africa,33,Female,Altitude Sickness (AMS/HAPE/HACE),8400,South Summit,8750m,South Col Route (Nepal),Spring (Apr-May),Mixed conditions,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+4/22/2021,Hiroshi Anderson,Denmark,24,Male,Frostbite complications,8000,Lhotse Face,,West Ridge,Spring (Apr-May),Mixed conditions,Novice,First 8000m peak,International Mountain Guides
+4/25/2021,Elena Shah,Mexico,31,Female,Altitude Sickness (AMS/HAPE/HACE),6400,Balcony,8400m,North Face,Spring (Apr-May),Clear,Expert,6+ previous 8000m peaks,Furtenbach Adventures
+4/29/2021,Betty Singh,Switzerland,33,Male,Hypothermia,6065,Western Cwm,,Northeast Ridge Route (Tibet),Spring (Apr-May),Snowstorm,Sherpa,,Alpine Ascents
+4/30/2021,Daniel King,Finland,30,Male,Weather exposure,6400,Balcony,8400m,West Ridge,Spring (Apr-May),High winds,Professional Guide,,Himalayan Experience
+5/5/2021,Jessica Rivera,Denmark,52,Male,Falling,7162,Yellow Band,,West Ridge,Spring (Apr-May),Snowstorm,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+5/6/2021,Wang Wang,Finland,40,Female,Weather exposure,8790,Khumbu Icefall,,South Col Route (Nepal),Spring (Apr-May),Blizzard,Novice,First 8000m peak,Himalayan Experience
+5/9/2021,Karen Chen,South Korea,29,Male,Cerebral edema,8750,Camp 3,7162m,Northeast Ridge Route (Tibet),Spring (Apr-May),High winds,Sherpa,,Jagged Globe
+5/15/2021,Ingrid Wang,Austria,48,Male,Exhaustion,8400,Western Cwm,,East Face,Spring (Apr-May),High winds,Sherpa,,Elite Exped
+5/15/2021,Marco Volkov,Russia,55,Female,Avalanche,6065,Western Cwm,,Southwest Face,Spring (Apr-May),High winds,Expert,6+ previous 8000m peaks,Summit Climb
+5/16/2021,Lisa Clark,Japan,28,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Hillary Step,8790m,West Ridge,Spring (Apr-May),Clear,Intermediate,1-2 previous 8000m peaks,International Mountain Guides
+5/17/2021,Donald Bianchi,Poland,24,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Khumbu Icefall,,West Ridge,Spring (Apr-May),Snowstorm,Novice,First 8000m peak,Furtenbach Adventures
+5/17/2021,Alessandro Miller,Nepal,30,Female,Exhaustion,8750,Summit,8848m,South Col Route (Nepal),Spring (Apr-May),Snowstorm,Intermediate,1-2 previous 8000m peaks,International Mountain Guides
+5/26/2021,Hiroshi Bernard,India,25,Male,Altitude Sickness (AMS/HAPE/HACE),8848,Lhotse Face,,Southwest Face,Spring (Apr-May),Blizzard,Professional Guide,,Furtenbach Adventures
+5/27/2021,Svetlana Rodriguez,Italy,48,Female,Hypothermia,8000,Camp 1,6065m,North Face,Spring (Apr-May),Mixed conditions,Novice,First 8000m peak,Himalayan Experience
+5/28/2021,Robert Volkov,Italy,33,Male,Crevasse fall,8000,Western Cwm,,South Col Route (Nepal),Spring (Apr-May),Whiteout,Sherpa,,Climbing the Seven Summits
+5/30/2021,Steven Adams,South Africa,42,Male,Falling,6065,Hillary Step,8790m,North Face,Spring (Apr-May),Cloudy,Experienced,3-5 previous 8000m peaks,Peak Freaks
+6/2/2021,Friedrich Allen,France,32,Female,Frostbite complications,5364,Summit,8848m,East Face,Summer (Jun-Aug),Clear,Intermediate,1-2 previous 8000m peaks,Alpine Ascents
+6/3/2021,Robert Ito,United Kingdom,26,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Base Camp,5364m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+6/3/2021,Francesca Lewis,Russia,26,Male,Icefall,8000,Camp 4,South Col - 8000m,North Face,Summer (Jun-Aug),Cloudy,Professional Guide,,Mountain Madness
+6/4/2021,Matteo Lee,South Korea,34,Male,Exhaustion,8750,Yellow Band,,South Col Route (Nepal),Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+6/4/2021,Robert Jones,Belgium,34,Female,Avalanche,8750,Summit,8848m,West Ridge,Summer (Jun-Aug),Whiteout,Expert,6+ previous 8000m peaks,Adventure Consultants
+6/8/2021,Greta Clark,United States,30,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Yellow Band,,Southwest Face,Summer (Jun-Aug),Whiteout,Novice,First 8000m peak,Elite Exped
+6/10/2021,Dmitri Sanchez,Denmark,55,Female,Cerebral edema,6065,Camp 1,6065m,West Ridge,Summer (Jun-Aug),Cloudy,Experienced,3-5 previous 8000m peaks,Summit Climb
+7/1/2021,Olga Kozlov,Germany,59,Female,Altitude Sickness (AMS/HAPE/HACE),7162,Balcony,8400m,North Face,Summer (Jun-Aug),High winds,Professional Guide,,Adventure Consultants
+7/2/2021,Lisa Brown,Mexico,27,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Summit,8848m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Mixed conditions,Professional Guide,,Peak Freaks
+7/5/2021,William Robinson,Israel,27,Female,Exhaustion,8000,Hillary Step,8790m,Southwest Face,Summer (Jun-Aug),Blizzard,Sherpa,,Mountain Madness
+7/10/2021,Anthony Zhao,Italy,28,Female,Frostbite complications,6400,Lhotse Face,,West Ridge,Summer (Jun-Aug),Whiteout,Experienced,3-5 previous 8000m peaks,Summit Climb
+7/12/2021,Dmitri White,India,63,Male,Exhaustion,8000,Summit,8848m,Southwest Face,Summer (Jun-Aug),Snowstorm,Expert,6+ previous 8000m peaks,Peak Freaks
+7/12/2021,Ashley Chen,Canada,64,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Hillary Step,8790m,North Face,Summer (Jun-Aug),Whiteout,Novice,First 8000m peak,Furtenbach Adventures
+7/21/2021,Charles Schmidt,Sweden,62,Male,Falling,8000,South Summit,8750m,North Face,Summer (Jun-Aug),Clear,Novice,First 8000m peak,Adventure Consultants
+7/23/2021,Svetlana Thomas,Russia,28,Female,Exhaustion,5364,Yellow Band,,Southwest Face,Summer (Jun-Aug),Snowstorm,Professional Guide,,Elite Exped
+8/11/2021,James Hernandez,Italy,53,Male,Disorientation/Lost,8400,Camp 4,South Col - 8000m,West Ridge,Summer (Jun-Aug),High winds,Sherpa,,Elite Exped
+8/12/2021,Mei Schmidt,Russia,26,Male,Exhaustion,8000,Death Zone,above 8000m,East Face,Summer (Jun-Aug),Blizzard,Novice,First 8000m peak,Independent/Private
+8/19/2021,Ingrid Müller,New Zealand,40,Male,Hypothermia,8750,Khumbu Icefall,,North Face,Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+8/22/2021,Matthew Zhao,Australia,31,Female,Hypothermia,8750,Camp 4,South Col - 8000m,West Ridge,Summer (Jun-Aug),Snowstorm,Professional Guide,,Madison Mountaineering
+9/4/2021,Paul Scott,Switzerland,22,Male,Crevasse fall,8750,Base Camp,5364m,North Face,Summer (Jun-Aug),Whiteout,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+9/7/2021,Marie King,Poland,36,Female,Hypothermia,8750,Hillary Step,8790m,East Face,Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,International Mountain Guides
+9/8/2021,Dmitri Martin,Russia,56,Female,Falling,8000,Camp 4,South Col - 8000m,South Col Route (Nepal),Summer (Jun-Aug),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Mountain Madness
+9/8/2021,Mei Chen,Germany,60,Male,Frostbite complications,8000,Lhotse Face,,East Face,Summer (Jun-Aug),Cloudy,Experienced,3-5 previous 8000m peaks,Elite Exped
+9/8/2021,John Hill,Brazil,58,Male,Exhaustion,8750,Camp 1,6065m,East Face,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,Madison Mountaineering
+9/8/2021,Hans Mehta,Switzerland,42,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Summit,8848m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),High winds,Expert,6+ previous 8000m peaks,Adventure Consultants
+9/11/2021,Thomas Russo,Nepal,35,Female,Falling,8000,Camp 2,6400m,Southwest Face,Summer (Jun-Aug),Whiteout,Sherpa,,International Mountain Guides
+9/13/2021,Zhang Verma,Sweden,31,Female,Crevasse fall,7162,Balcony,8400m,East Face,Summer (Jun-Aug),Extreme cold,Experienced,3-5 previous 8000m peaks,Adventure Consultants
+9/15/2021,Lisa Bianchi,China,32,Male,Weather exposure,8750,Yellow Band,,West Ridge,Summer (Jun-Aug),Whiteout,Professional Guide,,Himalayan Experience
+9/15/2021,Michael Thomas,Argentina,55,Male,Exhaustion,8000,Base Camp,5364m,North Face,Summer (Jun-Aug),Mixed conditions,Novice,First 8000m peak,Adventure Consultants
+9/18/2021,Margaret Martin,Italy,31,Female,Avalanche,7162,Lhotse Face,,North Face,Summer (Jun-Aug),Mixed conditions,Professional Guide,,Peak Freaks
+9/28/2021,Ingrid King,Argentina,31,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Balcony,8400m,East Face,Summer (Jun-Aug),Clear,Experienced,3-5 previous 8000m peaks,Independent/Private
+10/4/2021,Susan Patel,Switzerland,32,Male,Exhaustion,8000,Camp 4,South Col - 8000m,Southwest Face,Autumn (Oct-Nov),Snowstorm,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+10/5/2021,Jessica Miller,South Africa,29,Female,Falling,8400,Camp 4,South Col - 8000m,East Face,Autumn (Oct-Nov),High winds,Sherpa,,Himalayan Experience
+10/7/2021,Marco Taylor,Germany,34,Female,Cerebral edema,7162,Yellow Band,,North Face,Autumn (Oct-Nov),Whiteout,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+10/10/2021,Sandra Baker,United States,47,Male,Exhaustion,8790,Death Zone,above 8000m,Southwest Face,Autumn (Oct-Nov),Blizzard,Novice,First 8000m peak,Jagged Globe
+10/14/2021,Richard Martin,Russia,30,Female,Sudden cardiac event,5364,Camp 2,6400m,East Face,Autumn (Oct-Nov),Blizzard,Novice,First 8000m peak,Mountain Madness
+10/21/2021,Elizabeth Thomas,India,33,Female,Sudden cardiac event,7162,Camp 4,South Col - 8000m,North Face,Autumn (Oct-Nov),Clear,Sherpa,,Mountain Madness
+11/1/2021,Jean Nelson,Denmark,59,Male,Falling,7162,Khumbu Icefall,,East Face,Autumn (Oct-Nov),Extreme cold,Novice,First 8000m peak,Furtenbach Adventures
+11/2/2021,William Schmidt,Canada,56,Female,Sudden cardiac event,8400,South Summit,8750m,South Col Route (Nepal),Autumn (Oct-Nov),High winds,Sherpa,,International Mountain Guides
+11/6/2021,Karen Kobayashi,South Korea,27,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Summit,8848m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Mixed conditions,Professional Guide,,Elite Exped
+11/6/2021,Raj Garcia,Russia,30,Male,Cerebral edema,5364,Yellow Band,,North Face,Autumn (Oct-Nov),Mixed conditions,Novice,First 8000m peak,Adventure Consultants
+11/8/2021,Barbara Ferrari,Netherlands,31,Female,Exhaustion,6065,Yellow Band,,East Face,Autumn (Oct-Nov),Blizzard,Expert,6+ previous 8000m peaks,Peak Freaks
+11/18/2021,Emily Lopez,Brazil,56,Male,Crevasse fall,5364,Base Camp,5364m,East Face,Autumn (Oct-Nov),Blizzard,Novice,First 8000m peak,Climbing the Seven Summits
+11/27/2021,Olga Shah,China,28,Male,Falling,6400,Geneva Spur,,North Face,Autumn (Oct-Nov),Blizzard,Novice,First 8000m peak,Elite Exped
+11/28/2021,Charles Gupta,Mexico,31,Female,Crevasse fall,7162,Base Camp,5364m,North Face,Autumn (Oct-Nov),Extreme cold,Professional Guide,,Alpine Ascents
+11/28/2021,Ashley Fischer,Italy,21,Male,Cerebral edema,8790,Summit,8848m,Southwest Face,Autumn (Oct-Nov),Snowstorm,Professional Guide,,Seven Summits Treks
+12/3/2021,Zhang Bernard,Spain,27,Male,Frostbite complications,8790,South Summit,8750m,South Col Route (Nepal),Winter (Dec-Feb),Cloudy,Intermediate,1-2 previous 8000m peaks,Madison Mountaineering
+12/8/2021,Natalia Bernard,Switzerland,34,Male,Rockfall,5364,Western Cwm,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),High winds,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+12/13/2021,Michael Sharma,Canada,33,Male,Altitude Sickness (AMS/HAPE/HACE),8790,Camp 1,6065m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Mixed conditions,Experienced,3-5 previous 8000m peaks,Summit Climb
+12/24/2021,Matteo Johnson,United States,66,Female,Avalanche,7162,Camp 2,6400m,East Face,Winter (Dec-Feb),Mixed conditions,Novice,First 8000m peak,Climbing the Seven Summits
+12/25/2021,Alexei Campbell,Czech Republic,27,Female,Exhaustion,7162,Geneva Spur,,West Ridge,Winter (Dec-Feb),High winds,Sherpa,,International Mountain Guides
+1/2/2022,Antoine Lee,France,30,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Camp 3,7162m,Southwest Face,Winter (Dec-Feb),Snowstorm,Sherpa,,Jagged Globe
+1/4/2022,Aiko Rodriguez,France,63,Male,Falling,7162,Camp 1,6065m,North Face,Winter (Dec-Feb),Cloudy,Professional Guide,,Furtenbach Adventures
+1/5/2022,Greta Jackson,Austria,45,Male,Pulmonary edema,8400,Camp 1,6065m,North Face,Winter (Dec-Feb),Whiteout,Novice,First 8000m peak,Furtenbach Adventures
+1/5/2022,Matthew Romano,Czech Republic,49,Male,Falling,8000,Balcony,8400m,North Face,Winter (Dec-Feb),Snowstorm,Professional Guide,,Altitude Junkies
+1/7/2022,Yan Dubois,Netherlands,54,Male,Exhaustion,8750,Camp 4,South Col - 8000m,South Col Route (Nepal),Winter (Dec-Feb),Clear,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+1/7/2022,Raj Davis,Israel,32,Female,Rockfall,8400,Base Camp,5364m,Southwest Face,Winter (Dec-Feb),Mixed conditions,Experienced,3-5 previous 8000m peaks,Madison Mountaineering
+1/9/2022,Robert King,Netherlands,34,Male,Exhaustion,8000,Yellow Band,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Extreme cold,Experienced,3-5 previous 8000m peaks,Adventure Consultants
+1/11/2022,David Colombo,Belgium,22,Male,Altitude Sickness (AMS/HAPE/HACE),8848,Camp 1,6065m,Southwest Face,Winter (Dec-Feb),Cloudy,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+1/15/2022,Karen Ferrari,Finland,23,Female,Sudden cardiac event,8000,South Summit,8750m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Extreme cold,Experienced,3-5 previous 8000m peaks,Altitude Junkies
+1/15/2022,David Kumar,New Zealand,36,Male,Hypothermia,8000,Camp 2,6400m,South Col Route (Nepal),Winter (Dec-Feb),Whiteout,Expert,6+ previous 8000m peaks,Peak Freaks
+1/26/2022,Thomas Jones,France,55,Female,Exhaustion,7162,South Summit,8750m,Southwest Face,Winter (Dec-Feb),Mixed conditions,Sherpa,,Elite Exped
+2/1/2022,Karen Zhao,India,36,Female,Avalanche,8400,Lhotse Face,,Southwest Face,Winter (Dec-Feb),Snowstorm,Intermediate,1-2 previous 8000m peaks,International Mountain Guides
+2/3/2022,Francesca Scott,United States,40,Female,Falling,8400,South Summit,8750m,East Face,Winter (Dec-Feb),Extreme cold,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+2/4/2022,Anjali Martin,South Korea,24,Male,Exhaustion,8400,Balcony,8400m,East Face,Winter (Dec-Feb),High winds,Sherpa,,Alpine Ascents
+2/13/2022,Jessica Wright,Nepal,32,Female,Avalanche,6065,Base Camp,5364m,North Face,Winter (Dec-Feb),Extreme cold,Professional Guide,,Adventure Consultants
+2/20/2022,Elizabeth Sharma,Norway,23,Male,Altitude Sickness (AMS/HAPE/HACE),7162,Camp 2,6400m,South Col Route (Nepal),Winter (Dec-Feb),Cloudy,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+2/26/2022,Christopher Wright,Italy,66,Female,Hypothermia,7162,Base Camp,5364m,West Ridge,Winter (Dec-Feb),Clear,Expert,6+ previous 8000m peaks,Alpine Ascents
+2/26/2022,Sergei Colombo,Germany,41,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Balcony,8400m,North Face,Winter (Dec-Feb),High winds,Experienced,3-5 previous 8000m peaks,International Mountain Guides
+2/27/2022,Kenji Verma,Australia,29,Female,Falling,5364,Khumbu Icefall,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Snowstorm,Novice,First 8000m peak,Mountain Madness
+2/27/2022,Mary Ricci,India,47,Female,Avalanche,8750,Summit,8848m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Blizzard,Expert,6+ previous 8000m peaks,Madison Mountaineering
+3/2/2022,Mei Clark,Switzerland,53,Male,Frostbite complications,8400,Hillary Step,8790m,East Face,Summer (Jun-Aug),Whiteout,Expert,6+ previous 8000m peaks,Altitude Junkies
+3/4/2022,Sandra Nakamura,United Kingdom,25,Male,Cerebral edema,6065,Western Cwm,,Southwest Face,Summer (Jun-Aug),Clear,Experienced,3-5 previous 8000m peaks,Seven Summits Treks
+3/7/2022,Sergei Carter,Poland,28,Male,Falling,6065,Death Zone,above 8000m,Southwest Face,Summer (Jun-Aug),Cloudy,Sherpa,,Furtenbach Adventures
+3/17/2022,Jennifer Jackson,Finland,31,Male,Hypothermia,6400,Lhotse Face,,North Face,Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+3/19/2022,Charles Russo,South Korea,61,Male,Pulmonary edema,8790,Camp 2,6400m,West Ridge,Summer (Jun-Aug),Mixed conditions,Professional Guide,,Madison Mountaineering
+3/22/2022,Susan Sidorov,France,34,Male,Falling,6400,Khumbu Icefall,,West Ridge,Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Elite Exped
+3/29/2022,Michelle Weber,Norway,31,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Camp 2,6400m,West Ridge,Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Himalayan Experience
+3/30/2022,Andrew Williams,United States,24,Male,Altitude Sickness (AMS/HAPE/HACE),6065,Yellow Band,,East Face,Summer (Jun-Aug),Mixed conditions,Novice,First 8000m peak,Alpine Ascents
+3/31/2022,Valentina Fischer,Austria,62,Male,Falling,8000,Camp 1,6065m,South Col Route (Nepal),Summer (Jun-Aug),Cloudy,Experienced,3-5 previous 8000m peaks,Independent/Private
+4/11/2022,Xia Hernandez,Argentina,62,Female,Frostbite complications,5364,Death Zone,above 8000m,Northeast Ridge Route (Tibet),Spring (Apr-May),High winds,Sherpa,,Independent/Private
+4/12/2022,Karen Green,United States,31,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Death Zone,above 8000m,East Face,Spring (Apr-May),Extreme cold,Sherpa,,International Mountain Guides
+4/15/2022,Christopher Garcia,China,33,Female,Cerebral edema,6065,Camp 2,6400m,South Col Route (Nepal),Spring (Apr-May),High winds,Expert,6+ previous 8000m peaks,Asian Trekking
+4/16/2022,James Lopez,Australia,32,Female,Exhaustion,8000,Western Cwm,,South Col Route (Nepal),Spring (Apr-May),Cloudy,Experienced,3-5 previous 8000m peaks,Mountain Madness
+4/25/2022,Valentina Ramirez,South Africa,45,Female,Exhaustion,8000,Hillary Step,8790m,West Ridge,Spring (Apr-May),Clear,Novice,First 8000m peak,Climbing the Seven Summits
+5/11/2022,Valentina Clark,Mexico,33,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Camp 1,6065m,North Face,Spring (Apr-May),Mixed conditions,Expert,6+ previous 8000m peaks,Asian Trekking
+5/12/2022,Chen Wright,Sweden,65,Female,Exhaustion,8400,Summit,8848m,West Ridge,Spring (Apr-May),Extreme cold,Sherpa,,Furtenbach Adventures
+5/17/2022,Charles Romano,New Zealand,33,Female,Hypothermia,8750,Hillary Step,8790m,Northeast Ridge Route (Tibet),Spring (Apr-May),Blizzard,Professional Guide,,Peak Freaks
+5/30/2022,Olga Allen,India,49,Male,Exhaustion,8000,Summit,8848m,Southwest Face,Spring (Apr-May),Blizzard,Novice,First 8000m peak,Seven Summits Treks
+5/30/2022,Jessica Petrov,Japan,36,Male,Falling,8000,Hillary Step,8790m,Northeast Ridge Route (Tibet),Spring (Apr-May),Cloudy,Novice,First 8000m peak,Peak Freaks
+6/1/2022,Francesca Meyer,Russia,26,Male,Equipment failure,8400,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Mixed conditions,Novice,First 8000m peak,Alpine Ascents
+6/7/2022,Donald Kato,Brazil,48,Female,Altitude Sickness (AMS/HAPE/HACE),6065,Camp 2,6400m,South Col Route (Nepal),Summer (Jun-Aug),Cloudy,Sherpa,,Independent/Private
+6/11/2022,Thomas Walker,China,28,Male,Altitude Sickness (AMS/HAPE/HACE),8790,Balcony,8400m,West Ridge,Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Mountain Madness
+6/13/2022,Karen Campbell,Czech Republic,50,Female,Altitude Sickness (AMS/HAPE/HACE),7162,Camp 2,6400m,North Face,Summer (Jun-Aug),Whiteout,Novice,First 8000m peak,Madison Mountaineering
+6/14/2022,Daniel Thompson,Brazil,66,Male,Sudden cardiac event,8000,Death Zone,above 8000m,North Face,Summer (Jun-Aug),Extreme cold,Experienced,3-5 previous 8000m peaks,Asian Trekking
+7/2/2022,Aiko Schmidt,France,29,Female,Avalanche,8400,Khumbu Icefall,,Southwest Face,Summer (Jun-Aug),Mixed conditions,Sherpa,,Adventure Consultants
+7/3/2022,Elizabeth Moore,Netherlands,26,Female,Equipment failure,7162,Camp 2,6400m,Southwest Face,Summer (Jun-Aug),Cloudy,Novice,First 8000m peak,Peak Freaks
+7/4/2022,Natalia Martin,Sweden,27,Female,Altitude Sickness (AMS/HAPE/HACE),6400,Yellow Band,,North Face,Summer (Jun-Aug),High winds,Novice,First 8000m peak,Madison Mountaineering
+7/9/2022,Andrew Lee,Nepal,31,Male,Hypothermia,8750,Summit,8848m,North Face,Summer (Jun-Aug),Cloudy,Experienced,3-5 previous 8000m peaks,Madison Mountaineering
+7/18/2022,Sergei Green,Nepal,32,Male,Icefall,8400,Base Camp,5364m,West Ridge,Summer (Jun-Aug),Whiteout,Sherpa,,Climbing the Seven Summits
+7/23/2022,Helga Clark,France,28,Male,Equipment failure,6065,Hillary Step,8790m,North Face,Summer (Jun-Aug),Mixed conditions,Sherpa,,Mountain Madness
+7/26/2022,Kimberly Walker,Czech Republic,30,Male,Cerebral edema,8000,Camp 3,7162m,West Ridge,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,Seven Summits Treks
+7/29/2022,Sophie Allen,Japan,33,Female,Exhaustion,8790,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Blizzard,Expert,6+ previous 8000m peaks,Elite Exped
+8/1/2022,Ashley Thompson,Poland,29,Female,Altitude Sickness (AMS/HAPE/HACE),8848,Summit,8848m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Clear,Sherpa,,Climbing the Seven Summits
+8/6/2022,Linda Dubois,Switzerland,21,Male,Crevasse fall,6400,Geneva Spur,,West Ridge,Summer (Jun-Aug),High winds,Experienced,3-5 previous 8000m peaks,Elite Exped
+8/10/2022,Anthony Ito,Austria,32,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Camp 1,6065m,South Col Route (Nepal),Summer (Jun-Aug),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+8/13/2022,Francesca Sharma,South Africa,29,Male,Exhaustion,8750,Yellow Band,,North Face,Summer (Jun-Aug),Blizzard,Expert,6+ previous 8000m peaks,Independent/Private
+8/13/2022,Betty Sokolov,New Zealand,29,Male,Sudden cardiac event,8000,Camp 4,South Col - 8000m,South Col Route (Nepal),Summer (Jun-Aug),Cloudy,Novice,First 8000m peak,Mountain Madness
+8/21/2022,Helga Lewis,Norway,61,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Summit,8848m,South Col Route (Nepal),Summer (Jun-Aug),High winds,Sherpa,,Asian Trekking
+8/27/2022,Giulia Tanaka,Australia,35,Female,Falling,6065,Khumbu Icefall,,East Face,Summer (Jun-Aug),Mixed conditions,Novice,First 8000m peak,Alpine Ascents
+8/31/2022,Francesca Clark,United Kingdom,25,Female,Falling,8000,Camp 3,7162m,Southwest Face,Summer (Jun-Aug),Mixed conditions,Expert,6+ previous 8000m peaks,Mountain Madness
+9/15/2022,Helga Robinson,New Zealand,52,Male,Rockfall,6400,Camp 1,6065m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Clear,Novice,First 8000m peak,Asian Trekking
+9/15/2022,Ashley Smith,South Korea,28,Female,Falling,7162,South Summit,8750m,East Face,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,Adventure Consultants
+9/16/2022,Raj Thomas,Canada,22,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Geneva Spur,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Cloudy,Expert,6+ previous 8000m peaks,Seven Summits Treks
+9/25/2022,Daniel Lopez,Argentina,20,Female,Exhaustion,6400,Khumbu Icefall,,West Ridge,Summer (Jun-Aug),Clear,Novice,First 8000m peak,Asian Trekking
+9/27/2022,Nancy Allen,Spain,20,Female,Falling,8750,Balcony,8400m,East Face,Summer (Jun-Aug),Mixed conditions,Expert,6+ previous 8000m peaks,Altitude Junkies
+9/28/2022,Barbara Rivera,New Zealand,28,Male,Sudden cardiac event,8790,Western Cwm,,North Face,Summer (Jun-Aug),Mixed conditions,Professional Guide,,Asian Trekking
+10/7/2022,William Hill,Finland,29,Female,Cerebral edema,8000,Summit,8848m,South Col Route (Nepal),Autumn (Oct-Nov),Extreme cold,Sherpa,,Seven Summits Treks
+10/8/2022,Ingrid Ito,Argentina,31,Male,Altitude Sickness (AMS/HAPE/HACE),8750,South Summit,8750m,South Col Route (Nepal),Autumn (Oct-Nov),Cloudy,Experienced,3-5 previous 8000m peaks,Furtenbach Adventures
+10/10/2022,Kimberly Garcia,Mexico,52,Female,Avalanche,8000,Balcony,8400m,Southwest Face,Autumn (Oct-Nov),Whiteout,Sherpa,,Asian Trekking
+10/23/2022,Kenji Lewis,Poland,29,Male,Avalanche,8750,Geneva Spur,,South Col Route (Nepal),Autumn (Oct-Nov),Cloudy,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+10/24/2022,Linda Kozlov,Finland,29,Male,Altitude Sickness (AMS/HAPE/HACE),8400,South Summit,8750m,South Col Route (Nepal),Autumn (Oct-Nov),Extreme cold,Professional Guide,,Climbing the Seven Summits
+10/25/2022,Matthew Green,United Kingdom,22,Female,Avalanche,8000,Western Cwm,,Southwest Face,Autumn (Oct-Nov),Snowstorm,Experienced,3-5 previous 8000m peaks,Adventure Consultants
+10/29/2022,Dmitri Jackson,Switzerland,38,Female,Rockfall,6065,Western Cwm,,North Face,Autumn (Oct-Nov),Cloudy,Sherpa,,Summit Climb
+10/30/2022,James Bernard,South Korea,31,Female,Falling,7162,Geneva Spur,,Southwest Face,Autumn (Oct-Nov),Blizzard,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+10/31/2022,Luca Young,Australia,22,Female,Altitude Sickness (AMS/HAPE/HACE),8000,South Summit,8750m,North Face,Autumn (Oct-Nov),Blizzard,Intermediate,1-2 previous 8000m peaks,Himalayan Experience
+11/2/2022,Steven Leroy,South Africa,30,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Western Cwm,,Southwest Face,Autumn (Oct-Nov),Extreme cold,Sherpa,,Asian Trekking
+11/5/2022,Steven Liu,Brazil,29,Female,Exhaustion,6400,Khumbu Icefall,,North Face,Autumn (Oct-Nov),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Altitude Junkies
+11/10/2022,Karen Hall,United States,57,Male,Cerebral edema,8848,Camp 2,6400m,South Col Route (Nepal),Autumn (Oct-Nov),Extreme cold,Expert,6+ previous 8000m peaks,Altitude Junkies
+11/11/2022,Michelle Müller,South Korea,25,Female,Equipment failure,7162,Hillary Step,8790m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Snowstorm,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+11/11/2022,Matteo Rossi,Italy,34,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Death Zone,above 8000m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Cloudy,Novice,First 8000m peak,Asian Trekking
+11/13/2022,Dmitri Campbell,Nepal,29,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Death Zone,above 8000m,West Ridge,Autumn (Oct-Nov),Cloudy,Intermediate,1-2 previous 8000m peaks,International Mountain Guides
+11/13/2022,Anthony Nguyen,Brazil,27,Male,Avalanche,7162,South Summit,8750m,South Col Route (Nepal),Autumn (Oct-Nov),High winds,Expert,6+ previous 8000m peaks,Peak Freaks
+11/15/2022,Jean Schmidt,South Korea,36,Female,Exhaustion,8750,Camp 4,South Col - 8000m,West Ridge,Autumn (Oct-Nov),Snowstorm,Novice,First 8000m peak,Furtenbach Adventures
+11/22/2022,Barbara Harris,Denmark,34,Male,Hypothermia,7162,Western Cwm,,South Col Route (Nepal),Autumn (Oct-Nov),Clear,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+11/24/2022,Luca Harris,Norway,64,Female,Falling,8000,Western Cwm,,Southwest Face,Autumn (Oct-Nov),Cloudy,Professional Guide,,Alpine Ascents
+11/28/2022,Wang Suzuki,United States,26,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Yellow Band,,East Face,Autumn (Oct-Nov),Blizzard,Sherpa,,Climbing the Seven Summits
+12/7/2022,Sergei Johnson,Russia,42,Female,Exhaustion,8750,Hillary Step,8790m,West Ridge,Winter (Dec-Feb),Extreme cold,Novice,First 8000m peak,Independent/Private
+12/17/2022,Anjali Taylor,Switzerland,24,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Camp 3,7162m,Southwest Face,Winter (Dec-Feb),Mixed conditions,Expert,6+ previous 8000m peaks,Alpine Ascents
+12/19/2022,Michael Suzuki,Netherlands,47,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Balcony,8400m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Snowstorm,Sherpa,,Asian Trekking
+12/22/2022,Wei Becker,China,63,Female,Frostbite complications,7162,Camp 4,South Col - 8000m,North Face,Winter (Dec-Feb),Snowstorm,Sherpa,,Mountain Madness
+12/26/2022,Nancy Esposito,Finland,33,Female,Rockfall,8400,Balcony,8400m,East Face,Winter (Dec-Feb),Extreme cold,Expert,6+ previous 8000m peaks,Madison Mountaineering
+12/27/2022,Richard Taylor,Italy,26,Female,Hypothermia,7162,Hillary Step,8790m,Southwest Face,Winter (Dec-Feb),Blizzard,Expert,6+ previous 8000m peaks,Mountain Madness
+1/8/2023,Sergei Weber,South Africa,23,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Balcony,8400m,East Face,Winter (Dec-Feb),High winds,Novice,First 8000m peak,International Mountain Guides
+1/20/2023,Li Ivanov,India,55,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Yellow Band,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Blizzard,Intermediate,1-2 previous 8000m peaks,Summit Climb
+1/20/2023,Matteo Meyer,Argentina,25,Male,Disorientation/Lost,8790,Camp 2,6400m,Southwest Face,Winter (Dec-Feb),Blizzard,Experienced,3-5 previous 8000m peaks,Independent/Private
+1/23/2023,Richard Shah,Austria,20,Male,Icefall,8000,Base Camp,5364m,South Col Route (Nepal),Winter (Dec-Feb),High winds,Expert,6+ previous 8000m peaks,Altitude Junkies
+1/23/2023,Alessandro Popov,Austria,51,Female,Exhaustion,8400,Lhotse Face,,East Face,Winter (Dec-Feb),Clear,Expert,6+ previous 8000m peaks,Alpine Ascents
+1/26/2023,Ashley Robinson,South Africa,32,Female,Equipment failure,8848,Camp 3,7162m,East Face,Winter (Dec-Feb),High winds,Novice,First 8000m peak,Altitude Junkies
+2/6/2023,Francesca Sharma,Norway,46,Male,Sudden cardiac event,8000,Camp 3,7162m,Southwest Face,Winter (Dec-Feb),Mixed conditions,Expert,6+ previous 8000m peaks,Seven Summits Treks
+2/9/2023,Matteo Wang,South Africa,35,Male,Hypothermia,8790,Khumbu Icefall,,South Col Route (Nepal),Winter (Dec-Feb),High winds,Novice,First 8000m peak,Jagged Globe
+2/14/2023,Dmitri Rivera,Norway,54,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Lhotse Face,,North Face,Winter (Dec-Feb),Whiteout,Sherpa,,Seven Summits Treks
+2/18/2023,Sophie Petrov,Austria,48,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Death Zone,above 8000m,North Face,Winter (Dec-Feb),Whiteout,Expert,6+ previous 8000m peaks,Madison Mountaineering
+2/21/2023,Svetlana Fischer,Switzerland,31,Male,Frostbite complications,7162,Base Camp,5364m,Southwest Face,Winter (Dec-Feb),Cloudy,Experienced,3-5 previous 8000m peaks,Madison Mountaineering
+2/23/2023,Yuki Rodriguez,United States,30,Male,Falling,6400,Camp 2,6400m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Mixed conditions,Sherpa,,International Mountain Guides
+2/23/2023,Ursula Leroy,South Korea,34,Male,Crevasse fall,6400,Camp 4,South Col - 8000m,North Face,Winter (Dec-Feb),Whiteout,Expert,6+ previous 8000m peaks,Mountain Madness
+2/25/2023,Greta Weber,South Africa,33,Male,Exhaustion,5364,Lhotse Face,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Clear,Professional Guide,,Mountain Madness
+2/27/2023,Margaret Wagner,Russia,65,Male,Falling,8750,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Cloudy,Novice,First 8000m peak,Seven Summits Treks
+2/27/2023,Andrew Wilson,Brazil,59,Male,Exhaustion,8400,Camp 1,6065m,Southwest Face,Winter (Dec-Feb),High winds,Professional Guide,,Climbing the Seven Summits
+3/1/2023,Ivan Williams,Denmark,62,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Camp 2,6400m,North Face,Summer (Jun-Aug),High winds,Experienced,3-5 previous 8000m peaks,Climbing the Seven Summits
+3/9/2023,Ursula Anderson,Switzerland,20,Male,Icefall,6065,Camp 3,7162m,Southwest Face,Summer (Jun-Aug),Snowstorm,Novice,First 8000m peak,Summit Climb
+3/12/2023,Raj Huang,Switzerland,30,Male,Icefall,7162,Camp 3,7162m,South Col Route (Nepal),Summer (Jun-Aug),Blizzard,Intermediate,1-2 previous 8000m peaks,Independent/Private
+3/14/2023,Margaret Scott,Switzerland,28,Female,Altitude Sickness (AMS/HAPE/HACE),6065,Khumbu Icefall,,West Ridge,Summer (Jun-Aug),Cloudy,Sherpa,,Adventure Consultants
+4/3/2023,Kimberly Flores,Czech Republic,32,Female,Exhaustion,8790,Camp 2,6400m,Southwest Face,Spring (Apr-May),High winds,Novice,First 8000m peak,Seven Summits Treks
+4/13/2023,Giulia Huang,Israel,27,Male,Disorientation/Lost,8400,Death Zone,above 8000m,South Col Route (Nepal),Spring (Apr-May),Clear,Sherpa,,Altitude Junkies
+4/15/2023,Patricia Adams,Argentina,42,Female,Falling,7162,Western Cwm,,West Ridge,Spring (Apr-May),Mixed conditions,Expert,6+ previous 8000m peaks,Mountain Madness
+4/20/2023,Matteo Martinez,Austria,25,Female,Equipment failure,7162,Lhotse Face,,Southwest Face,Spring (Apr-May),Clear,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+4/21/2023,Linda Garcia,Spain,42,Female,Exhaustion,8400,Camp 2,6400m,Northeast Ridge Route (Tibet),Spring (Apr-May),Whiteout,Professional Guide,,Himalayan Experience
+4/28/2023,Marco Davis,Poland,28,Male,Exhaustion,8750,Geneva Spur,,Northeast Ridge Route (Tibet),Spring (Apr-May),Blizzard,Sherpa,,International Mountain Guides
+5/3/2023,Jennifer Wang,China,27,Female,Sudden cardiac event,8790,Geneva Spur,,East Face,Spring (Apr-May),Snowstorm,Professional Guide,,Seven Summits Treks
+5/4/2023,Sergei Liu,Russia,35,Female,Falling,5364,Death Zone,above 8000m,North Face,Spring (Apr-May),Extreme cold,Experienced,3-5 previous 8000m peaks,Himalayan Experience
+5/7/2023,Andrew Wilson,Australia,29,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Spring (Apr-May),Cloudy,Intermediate,1-2 previous 8000m peaks,International Mountain Guides
+5/11/2023,John Sanchez,Sweden,69,Female,Icefall,8000,Western Cwm,,North Face,Spring (Apr-May),Mixed conditions,Expert,6+ previous 8000m peaks,Furtenbach Adventures
+5/15/2023,Marie Wagner,India,29,Female,Avalanche,6065,Yellow Band,,East Face,Spring (Apr-May),Extreme cold,Novice,First 8000m peak,Jagged Globe
+5/21/2023,Aiko Brown,South Africa,27,Male,Falling,8400,Balcony,8400m,West Ridge,Spring (Apr-May),Clear,Novice,First 8000m peak,Altitude Junkies
+5/22/2023,Jessica Scott,Argentina,34,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Hillary Step,8790m,East Face,Spring (Apr-May),Extreme cold,Novice,First 8000m peak,Alpine Ascents
+5/25/2023,Matthew Martinez,United States,23,Female,Falling,8000,Western Cwm,,West Ridge,Spring (Apr-May),Cloudy,Intermediate,1-2 previous 8000m peaks,Adventure Consultants
+5/25/2023,Ivan Anderson,Sweden,25,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Hillary Step,8790m,South Col Route (Nepal),Spring (Apr-May),High winds,Sherpa,,Madison Mountaineering
+5/26/2023,Anjali Robinson,South Africa,26,Female,Sudden cardiac event,8400,Death Zone,above 8000m,West Ridge,Spring (Apr-May),Clear,Novice,First 8000m peak,Climbing the Seven Summits
+5/27/2023,David Esposito,Germany,33,Male,Altitude Sickness (AMS/HAPE/HACE),8790,Hillary Step,8790m,South Col Route (Nepal),Spring (Apr-May),Whiteout,Novice,First 8000m peak,Climbing the Seven Summits
+5/31/2023,Mary Campbell,Austria,26,Female,Crevasse fall,8000,Yellow Band,,South Col Route (Nepal),Spring (Apr-May),Clear,Novice,First 8000m peak,Elite Exped
+6/1/2023,Marco Gupta,Argentina,26,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Geneva Spur,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Cloudy,Novice,First 8000m peak,Asian Trekking
+6/5/2023,Susan Smith,Russia,46,Male,Frostbite complications,7162,Base Camp,5364m,East Face,Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,Himalayan Experience
+6/19/2023,Li Volkov,South Korea,63,Male,Hypothermia,8400,South Summit,8750m,West Ridge,Summer (Jun-Aug),Blizzard,Experienced,3-5 previous 8000m peaks,Mountain Madness
+6/22/2023,Raj Huang,Sweden,31,Male,Disorientation/Lost,8400,Camp 3,7162m,West Ridge,Summer (Jun-Aug),High winds,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+6/24/2023,Amit Brown,Finland,31,Male,Falling,8400,Balcony,8400m,West Ridge,Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,Adventure Consultants
+6/28/2023,Sandra Verma,Sweden,43,Male,Exhaustion,8400,Summit,8848m,North Face,Summer (Jun-Aug),Clear,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+7/2/2023,Steven Yamamoto,China,29,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Summit,8848m,Southwest Face,Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,Seven Summits Treks
+7/6/2023,Greta Lee,Denmark,54,Female,Altitude Sickness (AMS/HAPE/HACE),6400,Summit,8848m,Southwest Face,Summer (Jun-Aug),Mixed conditions,Sherpa,,Himalayan Experience
+7/9/2023,Friedrich Mitchell,Italy,61,Female,Cerebral edema,8400,Death Zone,above 8000m,South Col Route (Nepal),Summer (Jun-Aug),Whiteout,Expert,6+ previous 8000m peaks,Furtenbach Adventures
+7/10/2023,William Nelson,Finland,22,Female,Exhaustion,8000,Yellow Band,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Whiteout,Professional Guide,,Peak Freaks
+7/11/2023,Camille Colombo,Argentina,28,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Summit,8848m,Southwest Face,Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,Independent/Private
+7/18/2023,Sarah Thompson,Finland,26,Male,Altitude Sickness (AMS/HAPE/HACE),5364,Khumbu Icefall,,East Face,Summer (Jun-Aug),Cloudy,Expert,6+ previous 8000m peaks,Independent/Private
+7/31/2023,Daniel Bernard,Czech Republic,32,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Yellow Band,,West Ridge,Summer (Jun-Aug),Snowstorm,Expert,6+ previous 8000m peaks,Climbing the Seven Summits
+8/4/2023,Matthew Ferrari,Germany,31,Female,Cerebral edema,8790,South Summit,8750m,East Face,Summer (Jun-Aug),Cloudy,Expert,6+ previous 8000m peaks,Seven Summits Treks
+8/5/2023,Klaus Li,United States,37,Male,Exhaustion,8400,Camp 4,South Col - 8000m,North Face,Summer (Jun-Aug),Clear,Intermediate,1-2 previous 8000m peaks,Altitude Junkies
+8/13/2023,Elizabeth Flores,Canada,35,Male,Cerebral edema,8750,Lhotse Face,,West Ridge,Summer (Jun-Aug),Blizzard,Professional Guide,,Summit Climb
+8/16/2023,Priya Jackson,Argentina,28,Male,Frostbite complications,8000,Camp 1,6065m,Southwest Face,Summer (Jun-Aug),Cloudy,Professional Guide,,Independent/Private
+8/19/2023,John Petit,Norway,31,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Geneva Spur,,West Ridge,Summer (Jun-Aug),Clear,Professional Guide,,Madison Mountaineering
+8/22/2023,Emily Walker,Canada,28,Male,Icefall,8750,Geneva Spur,,East Face,Summer (Jun-Aug),Blizzard,Expert,6+ previous 8000m peaks,Madison Mountaineering
+9/2/2023,Barbara Rossi,France,33,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Hillary Step,8790m,Southwest Face,Summer (Jun-Aug),Whiteout,Experienced,3-5 previous 8000m peaks,Altitude Junkies
+9/5/2023,Linda Hill,Argentina,28,Female,Exhaustion,8000,Base Camp,5364m,North Face,Summer (Jun-Aug),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Asian Trekking
+9/14/2023,Thomas Johnson,Russia,26,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Balcony,8400m,Southwest Face,Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,International Mountain Guides
+9/20/2023,Alexei Sanchez,Mexico,28,Male,Crevasse fall,6400,Camp 2,6400m,East Face,Summer (Jun-Aug),Snowstorm,Expert,6+ previous 8000m peaks,Altitude Junkies
+9/21/2023,Joseph Petit,Germany,29,Female,Disorientation/Lost,5364,South Summit,8750m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Cloudy,Intermediate,1-2 previous 8000m peaks,Summit Climb
+9/23/2023,Andrew Ito,Switzerland,31,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Balcony,8400m,Southwest Face,Summer (Jun-Aug),Whiteout,Experienced,3-5 previous 8000m peaks,Seven Summits Treks
+9/23/2023,Zhang Campbell,New Zealand,27,Female,Rockfall,6400,Balcony,8400m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Cloudy,Experienced,3-5 previous 8000m peaks,Furtenbach Adventures
+9/25/2023,Michael Williams,Czech Republic,24,Male,Frostbite complications,8000,Western Cwm,,East Face,Summer (Jun-Aug),Whiteout,Professional Guide,,Adventure Consultants
+9/26/2023,Helga Davis,Russia,24,Female,Icefall,6400,Lhotse Face,,South Col Route (Nepal),Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Mountain Madness
+9/27/2023,William Ivanov,Czech Republic,26,Male,Falling,8750,Camp 4,South Col - 8000m,Southwest Face,Summer (Jun-Aug),Blizzard,Intermediate,1-2 previous 8000m peaks,International Mountain Guides
+10/11/2023,Ursula Allen,United Kingdom,42,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Death Zone,above 8000m,Southwest Face,Autumn (Oct-Nov),Mixed conditions,Expert,6+ previous 8000m peaks,Elite Exped
+10/17/2023,Linda Thompson,South Africa,23,Female,Falling,7162,South Summit,8750m,West Ridge,Autumn (Oct-Nov),Snowstorm,Expert,6+ previous 8000m peaks,Seven Summits Treks
+10/22/2023,Natalia Müller,United Kingdom,27,Male,Avalanche,8000,Khumbu Icefall,,East Face,Autumn (Oct-Nov),Mixed conditions,Professional Guide,,Altitude Junkies
+10/27/2023,Li Zhao,Australia,30,Female,Cerebral edema,6065,Khumbu Icefall,,Southwest Face,Autumn (Oct-Nov),High winds,Experienced,3-5 previous 8000m peaks,Jagged Globe
+10/28/2023,Claire Russo,India,31,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Base Camp,5364m,West Ridge,Autumn (Oct-Nov),Clear,Professional Guide,,Jagged Globe
+10/30/2023,Camille Müller,Nepal,45,Male,Sudden cardiac event,8000,Khumbu Icefall,,West Ridge,Autumn (Oct-Nov),Snowstorm,Professional Guide,,Jagged Globe
+11/1/2023,Alexei Thomas,Nepal,27,Female,Frostbite complications,8790,Western Cwm,,North Face,Autumn (Oct-Nov),Clear,Experienced,3-5 previous 8000m peaks,Mountain Madness
+11/12/2023,Barbara Lopez,United States,32,Female,Sudden cardiac event,8400,Death Zone,above 8000m,West Ridge,Autumn (Oct-Nov),Blizzard,Experienced,3-5 previous 8000m peaks,Altitude Junkies
+11/28/2023,Jessica Flores,South Africa,33,Male,Pulmonary edema,8750,Camp 3,7162m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Extreme cold,Professional Guide,,Climbing the Seven Summits
+12/3/2023,Elizabeth Rivera,South Africa,32,Male,Icefall,6400,Hillary Step,8790m,East Face,Winter (Dec-Feb),Snowstorm,Professional Guide,,Altitude Junkies
+12/5/2023,John Lewis,South Korea,29,Female,Crevasse fall,8400,Lhotse Face,,East Face,Winter (Dec-Feb),High winds,Professional Guide,,Jagged Globe
+12/5/2023,Margaret Carter,Nepal,27,Female,Altitude Sickness (AMS/HAPE/HACE),8750,South Summit,8750m,North Face,Winter (Dec-Feb),Whiteout,Intermediate,1-2 previous 8000m peaks,Summit Climb
+12/13/2023,Greta Jones,Switzerland,26,Female,Exhaustion,8400,Yellow Band,,South Col Route (Nepal),Winter (Dec-Feb),Whiteout,Experienced,3-5 previous 8000m peaks,Furtenbach Adventures
+12/22/2023,Kenji Schmidt,Spain,30,Male,Crevasse fall,5364,Death Zone,above 8000m,West Ridge,Winter (Dec-Feb),Cloudy,Experienced,3-5 previous 8000m peaks,Summit Climb
+12/24/2023,Li Volkov,Spain,67,Female,Disorientation/Lost,8400,Khumbu Icefall,,South Col Route (Nepal),Winter (Dec-Feb),Whiteout,Professional Guide,,Mountain Madness
+12/25/2023,Betty Young,Russia,43,Female,Exhaustion,8790,Lhotse Face,,South Col Route (Nepal),Winter (Dec-Feb),High winds,Sherpa,,Furtenbach Adventures
+12/27/2023,Ashley Sidorov,France,68,Male,Crevasse fall,6400,Death Zone,above 8000m,South Col Route (Nepal),Winter (Dec-Feb),Clear,Professional Guide,,Mountain Madness
+12/28/2023,Elizabeth Mitchell,New Zealand,30,Male,Falling,6400,Death Zone,above 8000m,West Ridge,Winter (Dec-Feb),Clear,Professional Guide,,Furtenbach Adventures
+12/30/2023,Daniel Romano,India,52,Male,Falling,7162,Camp 1,6065m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Blizzard,Expert,6+ previous 8000m peaks,Alpine Ascents
+1/4/2024,Richard Thomas,Canada,30,Male,Falling,6400,Western Cwm,,Southwest Face,Winter (Dec-Feb),Clear,Sherpa,,Himalayan Experience
+1/4/2024,Kenji Patel,Canada,31,Female,Exhaustion,8000,Geneva Spur,,West Ridge,Winter (Dec-Feb),Snowstorm,Professional Guide,,Summit Climb
+1/6/2024,Camille Müller,Norway,25,Male,Exhaustion,8400,Khumbu Icefall,,East Face,Winter (Dec-Feb),High winds,Expert,6+ previous 8000m peaks,Himalayan Experience
+1/7/2024,Friedrich Campbell,Netherlands,27,Female,Exhaustion,5364,Lhotse Face,,Southwest Face,Winter (Dec-Feb),Clear,Sherpa,,International Mountain Guides
+1/17/2024,Marco Wagner,Czech Republic,32,Female,Altitude Sickness (AMS/HAPE/HACE),8790,South Summit,8750m,South Col Route (Nepal),Winter (Dec-Feb),Blizzard,Professional Guide,,Himalayan Experience
+1/17/2024,Nancy Bianchi,South Korea,31,Female,Hypothermia,8000,Base Camp,5364m,South Col Route (Nepal),Winter (Dec-Feb),Blizzard,Experienced,3-5 previous 8000m peaks,Himalayan Experience
+1/22/2024,Nancy Hall,New Zealand,47,Male,Equipment failure,8400,Camp 1,6065m,North Face,Winter (Dec-Feb),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Elite Exped
+1/25/2024,Wang Ferrari,Switzerland,63,Female,Exhaustion,8400,Khumbu Icefall,,East Face,Winter (Dec-Feb),Whiteout,Expert,6+ previous 8000m peaks,Climbing the Seven Summits
+2/1/2024,Xia Carter,Switzerland,59,Male,Crevasse fall,6065,Western Cwm,,West Ridge,Winter (Dec-Feb),Extreme cold,Professional Guide,,Elite Exped
+2/1/2024,Ivan Mehta,Australia,27,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Camp 2,6400m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Whiteout,Expert,6+ previous 8000m peaks,Summit Climb
+2/2/2024,Daniel Durand,China,32,Male,Avalanche,8000,Khumbu Icefall,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),High winds,Expert,6+ previous 8000m peaks,Asian Trekking
+2/12/2024,Antoine Becker,Brazil,29,Female,Altitude Sickness (AMS/HAPE/HACE),8000,South Summit,8750m,West Ridge,Winter (Dec-Feb),Whiteout,Expert,6+ previous 8000m peaks,Peak Freaks
+2/17/2024,Natalia Bianchi,Argentina,26,Female,Hypothermia,8750,Camp 1,6065m,East Face,Winter (Dec-Feb),Clear,Experienced,3-5 previous 8000m peaks,Climbing the Seven Summits
+2/22/2024,Steven Rossi,France,28,Male,Sudden cardiac event,8790,Camp 4,South Col - 8000m,North Face,Winter (Dec-Feb),Extreme cold,Experienced,3-5 previous 8000m peaks,Altitude Junkies
+2/23/2024,James Thomas,Spain,32,Male,Falling,8000,Lhotse Face,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Blizzard,Expert,6+ previous 8000m peaks,Climbing the Seven Summits
+2/26/2024,Paul Torres,Denmark,52,Male,Exhaustion,8750,Lhotse Face,,East Face,Winter (Dec-Feb),Snowstorm,Novice,First 8000m peak,Alpine Ascents
+2/28/2024,Ashley Mitchell,Spain,31,Male,Exhaustion,8790,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Whiteout,Sherpa,,Himalayan Experience
+3/5/2024,Friedrich Taylor,Netherlands,25,Male,Exhaustion,8000,Khumbu Icefall,,South Col Route (Nepal),Summer (Jun-Aug),Snowstorm,Novice,First 8000m peak,Independent/Private
+3/8/2024,Natalia Hernandez,Switzerland,33,Male,Avalanche,8000,Camp 2,6400m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,Jagged Globe
+3/15/2024,Anjali Roberts,South Korea,36,Female,Rockfall,8848,Lhotse Face,,South Col Route (Nepal),Summer (Jun-Aug),Snowstorm,Sherpa,,Seven Summits Treks
+3/16/2024,Susan Rodriguez,Poland,30,Male,Avalanche,8750,Western Cwm,,Southwest Face,Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Adventure Consultants
+3/21/2024,Betty Fischer,Japan,29,Female,Frostbite complications,8000,Balcony,8400m,West Ridge,Summer (Jun-Aug),Clear,Novice,First 8000m peak,International Mountain Guides
+4/7/2024,Yuki Tanaka,Sweden,62,Female,Crevasse fall,6400,Lhotse Face,,North Face,Spring (Apr-May),Clear,Sherpa,,Independent/Private
+4/9/2024,Paul Robinson,Japan,56,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Western Cwm,,Northeast Ridge Route (Tibet),Spring (Apr-May),Cloudy,Professional Guide,,Peak Freaks
+4/25/2024,Valentina Johnson,Netherlands,52,Male,Cerebral edema,8400,Yellow Band,,Northeast Ridge Route (Tibet),Spring (Apr-May),Snowstorm,Novice,First 8000m peak,Alpine Ascents
+4/28/2024,Hans Lewis,Russia,36,Male,Hypothermia,7162,Camp 2,6400m,South Col Route (Nepal),Spring (Apr-May),Extreme cold,Expert,6+ previous 8000m peaks,Climbing the Seven Summits
+5/2/2024,Donald Scott,Russia,30,Female,Sudden cardiac event,6065,South Summit,8750m,Southwest Face,Spring (Apr-May),Extreme cold,Expert,6+ previous 8000m peaks,Mountain Madness
+5/3/2024,Elizabeth Nelson,Japan,29,Male,Altitude Sickness (AMS/HAPE/HACE),6065,South Summit,8750m,Southwest Face,Spring (Apr-May),Clear,Sherpa,,Mountain Madness
+5/5/2024,Natalia Nguyen,Czech Republic,64,Female,Avalanche,6065,Balcony,8400m,Southwest Face,Spring (Apr-May),Blizzard,Intermediate,1-2 previous 8000m peaks,Summit Climb
+5/11/2024,Xia Wilson,Belgium,32,Male,Exhaustion,7162,Balcony,8400m,South Col Route (Nepal),Spring (Apr-May),Extreme cold,Novice,First 8000m peak,Himalayan Experience
+5/15/2024,John Brown,Russia,50,Male,Altitude Sickness (AMS/HAPE/HACE),7162,Lhotse Face,,East Face,Spring (Apr-May),Whiteout,Novice,First 8000m peak,Himalayan Experience
+5/18/2024,Sergei Zhang,Germany,55,Female,Exhaustion,8000,Lhotse Face,,Southwest Face,Spring (Apr-May),Mixed conditions,Experienced,3-5 previous 8000m peaks,Independent/Private
+6/18/2024,Jean Anderson,Finland,55,Female,Exhaustion,8400,Khumbu Icefall,,Southwest Face,Summer (Jun-Aug),Blizzard,Professional Guide,,Furtenbach Adventures
+6/20/2024,Paul Johnson,Switzerland,33,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Base Camp,5364m,Southwest Face,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,Asian Trekking
+7/1/2024,Elena Robinson,Argentina,31,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Balcony,8400m,West Ridge,Summer (Jun-Aug),Extreme cold,Novice,First 8000m peak,Adventure Consultants
+7/3/2024,François Mitchell,New Zealand,56,Female,Altitude Sickness (AMS/HAPE/HACE),8848,Camp 4,South Col - 8000m,South Col Route (Nepal),Summer (Jun-Aug),Blizzard,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+7/7/2024,Thomas Volkov,Russia,63,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Hillary Step,8790m,East Face,Summer (Jun-Aug),Snowstorm,Experienced,3-5 previous 8000m peaks,Elite Exped
+7/7/2024,Patricia Nelson,Spain,27,Male,Altitude Sickness (AMS/HAPE/HACE),8790,Summit,8848m,South Col Route (Nepal),Summer (Jun-Aug),High winds,Professional Guide,,Alpine Ascents
+7/9/2024,Donna Wang,Finland,20,Male,Hypothermia,8848,Western Cwm,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),High winds,Experienced,3-5 previous 8000m peaks,Alpine Ascents
+7/12/2024,Yan Garcia,Finland,62,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Lhotse Face,,South Col Route (Nepal),Summer (Jun-Aug),Snowstorm,Experienced,3-5 previous 8000m peaks,Jagged Globe
+7/18/2024,Linda Lebedev,Netherlands,45,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Camp 1,6065m,East Face,Summer (Jun-Aug),Cloudy,Experienced,3-5 previous 8000m peaks,Furtenbach Adventures
+7/19/2024,Elena Martinez,Argentina,35,Male,Pulmonary edema,5364,Base Camp,5364m,East Face,Summer (Jun-Aug),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+7/20/2024,Jessica Schmidt,Canada,31,Male,Rockfall,8790,Camp 3,7162m,Southwest Face,Summer (Jun-Aug),Whiteout,Novice,First 8000m peak,Independent/Private
+7/21/2024,Klaus White,Switzerland,27,Male,Disorientation/Lost,7162,South Summit,8750m,West Ridge,Summer (Jun-Aug),Clear,Novice,First 8000m peak,Adventure Consultants
+7/26/2024,Yan Lee,United States,32,Female,Hypothermia,8750,Khumbu Icefall,,South Col Route (Nepal),Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Summit Climb
+7/31/2024,Anjali Bianchi,Poland,39,Female,Exhaustion,8400,Khumbu Icefall,,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Whiteout,Intermediate,1-2 previous 8000m peaks,Mountain Madness
+8/22/2024,Barbara Davis,South Africa,28,Female,Exhaustion,8400,Camp 3,7162m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Whiteout,Experienced,3-5 previous 8000m peaks,Mountain Madness
+9/9/2024,Jean Rodriguez,Argentina,64,Male,Avalanche,7162,South Summit,8750m,Southwest Face,Summer (Jun-Aug),Blizzard,Experienced,3-5 previous 8000m peaks,Summit Climb
+9/12/2024,Camille Müller,Norway,42,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Khumbu Icefall,,East Face,Summer (Jun-Aug),Blizzard,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+9/14/2024,Amit Müller,Switzerland,29,Female,Avalanche,7162,Camp 2,6400m,South Col Route (Nepal),Summer (Jun-Aug),Snowstorm,Intermediate,1-2 previous 8000m peaks,Madison Mountaineering
+9/18/2024,Luca Harris,Norway,31,Male,Frostbite complications,5364,Yellow Band,,South Col Route (Nepal),Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Alpine Ascents
+9/27/2024,Marie Gupta,Brazil,24,Female,Sudden cardiac event,8750,Death Zone,above 8000m,Northeast Ridge Route (Tibet),Summer (Jun-Aug),Clear,Expert,6+ previous 8000m peaks,Climbing the Seven Summits
+9/29/2024,Marie Yamamoto,South Korea,29,Female,Falling,6400,Base Camp,5364m,South Col Route (Nepal),Summer (Jun-Aug),Extreme cold,Experienced,3-5 previous 8000m peaks,Seven Summits Treks
+10/6/2024,Olga Campbell,Denmark,62,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Balcony,8400m,North Face,Autumn (Oct-Nov),Mixed conditions,Novice,First 8000m peak,Peak Freaks
+10/11/2024,David Wright,United Kingdom,30,Male,Avalanche,6065,South Summit,8750m,South Col Route (Nepal),Autumn (Oct-Nov),High winds,Novice,First 8000m peak,International Mountain Guides
+10/15/2024,Marco Rodriguez,India,65,Female,Cerebral edema,5364,Khumbu Icefall,,West Ridge,Autumn (Oct-Nov),Cloudy,Expert,6+ previous 8000m peaks,Seven Summits Treks
+10/17/2024,Marco Patel,Sweden,63,Male,Hypothermia,7162,Western Cwm,,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Clear,Novice,First 8000m peak,Seven Summits Treks
+10/19/2024,Marco Zhang,Finland,46,Male,Pulmonary edema,7162,Western Cwm,,North Face,Autumn (Oct-Nov),Blizzard,Professional Guide,,Altitude Junkies
+10/30/2024,Betty Adams,Mexico,53,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Camp 2,6400m,Southwest Face,Autumn (Oct-Nov),Cloudy,Sherpa,,Alpine Ascents
+11/4/2024,Kenji Nakamura,Denmark,25,Male,Avalanche,8000,Camp 2,6400m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Clear,Sherpa,,Elite Exped
+11/4/2024,Amit Gupta,New Zealand,23,Female,Falling,7162,Geneva Spur,,East Face,Autumn (Oct-Nov),Whiteout,Sherpa,,Peak Freaks
+11/12/2024,Nancy Thompson,Brazil,39,Female,Altitude Sickness (AMS/HAPE/HACE),7162,South Summit,8750m,East Face,Autumn (Oct-Nov),Cloudy,Intermediate,1-2 previous 8000m peaks,Madison Mountaineering
+11/12/2024,Ashley Green,New Zealand,26,Male,Altitude Sickness (AMS/HAPE/HACE),8000,South Summit,8750m,West Ridge,Autumn (Oct-Nov),Clear,Novice,First 8000m peak,Climbing the Seven Summits
+11/15/2024,Mary Rivera,South Africa,29,Male,Sudden cardiac event,7162,Death Zone,above 8000m,North Face,Autumn (Oct-Nov),High winds,Novice,First 8000m peak,Seven Summits Treks
+11/20/2024,Richard Ito,United States,68,Male,Exhaustion,8790,South Summit,8750m,East Face,Autumn (Oct-Nov),High winds,Professional Guide,,Peak Freaks
+11/21/2024,Daniel Smith,Argentina,30,Male,Hypothermia,6400,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Clear,Sherpa,,Furtenbach Adventures
+11/30/2024,Friedrich Flores,South Africa,27,Male,Frostbite complications,7162,Geneva Spur,,South Col Route (Nepal),Autumn (Oct-Nov),Extreme cold,Sherpa,,Altitude Junkies
+12/2/2024,Donna Brown,Russia,30,Male,Exhaustion,8400,Death Zone,above 8000m,Southwest Face,Winter (Dec-Feb),Extreme cold,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+12/17/2024,Valentina Yang,Italy,36,Female,Avalanche,8400,Camp 3,7162m,South Col Route (Nepal),Winter (Dec-Feb),High winds,Intermediate,1-2 previous 8000m peaks,Elite Exped
+12/24/2024,Sophie Harris,China,31,Female,Altitude Sickness (AMS/HAPE/HACE),8000,Lhotse Face,,East Face,Winter (Dec-Feb),Snowstorm,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+12/27/2024,Sergei Colombo,India,26,Male,Falling,8790,Camp 3,7162m,Southwest Face,Winter (Dec-Feb),Blizzard,Experienced,3-5 previous 8000m peaks,Furtenbach Adventures
+12/27/2024,Sophie King,United Kingdom,28,Female,Hypothermia,7162,Camp 3,7162m,East Face,Winter (Dec-Feb),Clear,Professional Guide,,Independent/Private
+12/31/2024,Elena Hall,South Africa,59,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Yellow Band,,North Face,Winter (Dec-Feb),High winds,Expert,6+ previous 8000m peaks,Altitude Junkies
+1/1/2025,Hans Schneider,Norway,30,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Balcony,8400m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Extreme cold,Sherpa,,International Mountain Guides
+1/1/2025,Jennifer Moore,Australia,26,Male,Falling,7162,Western Cwm,,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Extreme cold,Experienced,3-5 previous 8000m peaks,Mountain Madness
+1/7/2025,Friedrich Flores,India,31,Female,Exhaustion,8000,Khumbu Icefall,,South Col Route (Nepal),Winter (Dec-Feb),Cloudy,Novice,First 8000m peak,Jagged Globe
+1/8/2025,Pierre Thompson,New Zealand,58,Male,Falling,8750,Summit,8848m,North Face,Winter (Dec-Feb),Clear,Expert,6+ previous 8000m peaks,Summit Climb
+2/1/2025,Friedrich Bianchi,New Zealand,34,Female,Exhaustion,8400,Death Zone,above 8000m,West Ridge,Winter (Dec-Feb),Extreme cold,Professional Guide,,Adventure Consultants
+2/3/2025,Pierre Bianchi,Australia,32,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Western Cwm,,Southwest Face,Winter (Dec-Feb),Blizzard,Experienced,3-5 previous 8000m peaks,Himalayan Experience
+2/9/2025,Ingrid Yamamoto,China,61,Male,Falling,8000,Base Camp,5364m,Northeast Ridge Route (Tibet),Winter (Dec-Feb),Blizzard,Sherpa,,International Mountain Guides
+2/11/2025,Helga Garcia,South Africa,48,Female,Avalanche,7162,Camp 3,7162m,South Col Route (Nepal),Winter (Dec-Feb),High winds,Novice,First 8000m peak,Himalayan Experience
+2/12/2025,Betty Walker,Japan,33,Male,Exhaustion,8750,Camp 3,7162m,West Ridge,Winter (Dec-Feb),Snowstorm,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+2/20/2025,Charles Harris,South Africa,29,Male,Hypothermia,8750,Khumbu Icefall,,East Face,Winter (Dec-Feb),High winds,Sherpa,,Jagged Globe
+2/23/2025,Marco Sharma,China,29,Male,Rockfall,8400,Camp 3,7162m,East Face,Winter (Dec-Feb),Mixed conditions,Professional Guide,,Peak Freaks
+2/24/2025,Thomas Yamamoto,United States,61,Female,Hypothermia,6400,Camp 2,6400m,North Face,Winter (Dec-Feb),Extreme cold,Novice,First 8000m peak,Furtenbach Adventures
+3/18/2025,Lisa Nguyen,Norway,26,Female,Icefall,6400,Camp 1,6065m,West Ridge,Summer (Jun-Aug),Mixed conditions,Experienced,3-5 previous 8000m peaks,Climbing the Seven Summits
+4/8/2025,Antoine Lopez,Austria,31,Female,Frostbite complications,8750,Yellow Band,,West Ridge,Spring (Apr-May),Clear,Novice,First 8000m peak,Adventure Consultants
+4/21/2025,Chen Lewis,Norway,59,Male,Sudden cardiac event,8750,Camp 4,South Col - 8000m,Northeast Ridge Route (Tibet),Spring (Apr-May),Extreme cold,Novice,First 8000m peak,International Mountain Guides
+4/26/2025,Marie Lee,Argentina,27,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Base Camp,5364m,Northeast Ridge Route (Tibet),Spring (Apr-May),Blizzard,Novice,First 8000m peak,Summit Climb
+4/28/2025,Susan Campbell,Denmark,45,Female,Crevasse fall,6065,Camp 4,South Col - 8000m,North Face,Spring (Apr-May),Whiteout,Sherpa,,International Mountain Guides
+5/7/2025,Pierre Jones,Switzerland,22,Male,Altitude Sickness (AMS/HAPE/HACE),8790,Camp 2,6400m,North Face,Spring (Apr-May),Extreme cold,Expert,6+ previous 8000m peaks,Mountain Madness
+5/7/2025,Daniel Sidorov,Czech Republic,31,Male,Falling,5364,Western Cwm,,South Col Route (Nepal),Spring (Apr-May),Blizzard,Novice,First 8000m peak,Altitude Junkies
+5/10/2025,Daniel Verma,Switzerland,31,Female,Exhaustion,8790,Western Cwm,,West Ridge,Spring (Apr-May),Cloudy,Expert,6+ previous 8000m peaks,Altitude Junkies
+5/15/2025,Barbara Yang,Spain,28,Male,Altitude Sickness (AMS/HAPE/HACE),8400,Khumbu Icefall,,East Face,Spring (Apr-May),Mixed conditions,Novice,First 8000m peak,Adventure Consultants
+5/16/2025,Patricia Kumar,Brazil,26,Female,Avalanche,7162,Camp 1,6065m,West Ridge,Spring (Apr-May),Blizzard,Experienced,3-5 previous 8000m peaks,Furtenbach Adventures
+5/22/2025,Priya Li,Sweden,35,Male,Altitude Sickness (AMS/HAPE/HACE),6400,Camp 1,6065m,North Face,Spring (Apr-May),Blizzard,Novice,First 8000m peak,Jagged Globe
+5/24/2025,Dmitri Sanchez,Japan,33,Female,Hypothermia,8000,Khumbu Icefall,,North Face,Spring (Apr-May),Extreme cold,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+5/27/2025,Alessandro Yamamoto,Mexico,26,Male,Falling,8790,Camp 4,South Col - 8000m,South Col Route (Nepal),Spring (Apr-May),Snowstorm,Novice,First 8000m peak,Altitude Junkies
+5/29/2025,Matteo Thomas,Belgium,27,Male,Icefall,5364,Death Zone,above 8000m,Northeast Ridge Route (Tibet),Spring (Apr-May),Extreme cold,Professional Guide,,Peak Freaks
+6/9/2025,Hans Rossi,Brazil,49,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Camp 2,6400m,South Col Route (Nepal),Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Altitude Junkies
+6/18/2025,Klaus Lewis,Belgium,26,Male,Exhaustion,8400,Camp 1,6065m,Southwest Face,Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,International Mountain Guides
+6/26/2025,Betty Ricci,Belgium,58,Male,Altitude Sickness (AMS/HAPE/HACE),8750,Camp 1,6065m,East Face,Summer (Jun-Aug),Extreme cold,Expert,6+ previous 8000m peaks,Adventure Consultants
+7/4/2025,Richard Moore,Denmark,41,Female,Frostbite complications,8000,Hillary Step,8790m,Southwest Face,Summer (Jun-Aug),Snowstorm,Sherpa,,Madison Mountaineering
+7/15/2025,Sandra Johnson,South Africa,65,Male,Exhaustion,8000,Geneva Spur,,South Col Route (Nepal),Summer (Jun-Aug),Mixed conditions,Novice,First 8000m peak,Furtenbach Adventures
+7/18/2025,Valentina Williams,South Korea,30,Female,Exhaustion,8000,Western Cwm,,East Face,Summer (Jun-Aug),Mixed conditions,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+7/20/2025,Valentina Williams,Israel,29,Female,Falling,8000,Yellow Band,,Southwest Face,Summer (Jun-Aug),Whiteout,Experienced,3-5 previous 8000m peaks,Summit Climb
+7/23/2025,Alexei Moore,Netherlands,31,Female,Icefall,8400,Summit,8848m,North Face,Summer (Jun-Aug),Cloudy,Novice,First 8000m peak,Madison Mountaineering
+7/24/2025,Ursula Durand,France,33,Female,Exhaustion,8750,Camp 4,South Col - 8000m,South Col Route (Nepal),Summer (Jun-Aug),Cloudy,Professional Guide,,Mountain Madness
+7/24/2025,Jennifer King,Czech Republic,42,Female,Exhaustion,8790,Hillary Step,8790m,West Ridge,Summer (Jun-Aug),Snowstorm,Sherpa,,Seven Summits Treks
+7/28/2025,Anjali Popov,Italy,30,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Summit,8848m,East Face,Summer (Jun-Aug),High winds,Intermediate,1-2 previous 8000m peaks,Furtenbach Adventures
+7/30/2025,Claire Kumar,Czech Republic,34,Male,Exhaustion,8000,Camp 2,6400m,North Face,Summer (Jun-Aug),Snowstorm,Intermediate,1-2 previous 8000m peaks,Altitude Junkies
+8/1/2025,Elizabeth Kozlov,Belgium,26,Male,Avalanche,6400,Camp 1,6065m,West Ridge,Summer (Jun-Aug),Clear,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+8/1/2025,Camille Zhao,United States,28,Male,Frostbite complications,8790,Geneva Spur,,Southwest Face,Summer (Jun-Aug),Blizzard,Professional Guide,,Climbing the Seven Summits
+8/8/2025,Robert Gupta,Mexico,26,Male,Hypothermia,8000,Khumbu Icefall,,North Face,Summer (Jun-Aug),Clear,Expert,6+ previous 8000m peaks,Himalayan Experience
+8/14/2025,Nancy Jones,Australia,33,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Khumbu Icefall,,Southwest Face,Summer (Jun-Aug),High winds,Sherpa,,Madison Mountaineering
+8/15/2025,Sophie Zhang,Norway,27,Female,Exhaustion,8400,Geneva Spur,,West Ridge,Summer (Jun-Aug),High winds,Experienced,3-5 previous 8000m peaks,Altitude Junkies
+8/22/2025,Klaus Mehta,Czech Republic,27,Female,Frostbite complications,6400,Death Zone,above 8000m,North Face,Summer (Jun-Aug),Blizzard,Sherpa,,Altitude Junkies
+8/22/2025,Donald Weber,New Zealand,68,Male,Frostbite complications,8000,Khumbu Icefall,,West Ridge,Summer (Jun-Aug),Extreme cold,Intermediate,1-2 previous 8000m peaks,Adventure Consultants
+8/27/2025,Wolfgang Martinez,Argentina,30,Female,Crevasse fall,6400,Western Cwm,,Southwest Face,Summer (Jun-Aug),Whiteout,Expert,6+ previous 8000m peaks,Climbing the Seven Summits
+8/28/2025,Patricia Jones,United Kingdom,28,Female,Crevasse fall,7162,Camp 4,South Col - 8000m,West Ridge,Summer (Jun-Aug),Whiteout,Expert,6+ previous 8000m peaks,International Mountain Guides
+8/29/2025,Elizabeth Schmidt,South Africa,31,Female,Sudden cardiac event,7162,Camp 1,6065m,West Ridge,Summer (Jun-Aug),Clear,Intermediate,1-2 previous 8000m peaks,Independent/Private
+8/31/2025,Giulia Nakamura,France,34,Female,Avalanche,5364,Camp 4,South Col - 8000m,South Col Route (Nepal),Summer (Jun-Aug),Whiteout,Professional Guide,,Elite Exped
+9/4/2025,Richard Robinson,Japan,25,Female,Falling,7162,Balcony,8400m,South Col Route (Nepal),Summer (Jun-Aug),Snowstorm,Expert,6+ previous 8000m peaks,Independent/Private
+9/23/2025,Thomas Bianchi,Japan,27,Female,Exhaustion,8000,Camp 3,7162m,North Face,Summer (Jun-Aug),Blizzard,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+10/8/2025,Barbara Meyer,Brazil,35,Female,Altitude Sickness (AMS/HAPE/HACE),8400,Khumbu Icefall,,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Blizzard,Novice,First 8000m peak,Mountain Madness
+10/11/2025,Alessandro Carter,United Kingdom,26,Female,Altitude Sickness (AMS/HAPE/HACE),8000,South Summit,8750m,North Face,Autumn (Oct-Nov),Mixed conditions,Experienced,3-5 previous 8000m peaks,Elite Exped
+10/16/2025,Marco Ricci,Austria,31,Male,Equipment failure,8400,Camp 2,6400m,East Face,Autumn (Oct-Nov),High winds,Novice,First 8000m peak,Mountain Madness
+10/26/2025,Dmitri Scott,Austria,23,Female,Cerebral edema,8400,Khumbu Icefall,,West Ridge,Autumn (Oct-Nov),Clear,Intermediate,1-2 previous 8000m peaks,Altitude Junkies
+11/1/2025,Helga Nakamura,Germany,28,Female,Hypothermia,8000,Khumbu Icefall,,East Face,Autumn (Oct-Nov),Extreme cold,Expert,6+ previous 8000m peaks,Peak Freaks
+11/2/2025,Steven Zhao,South Korea,31,Female,Exhaustion,6400,Yellow Band,,South Col Route (Nepal),Autumn (Oct-Nov),Cloudy,Intermediate,1-2 previous 8000m peaks,Jagged Globe
+11/9/2025,James Martin,Denmark,32,Male,Altitude Sickness (AMS/HAPE/HACE),8000,Lhotse Face,,East Face,Autumn (Oct-Nov),Snowstorm,Intermediate,1-2 previous 8000m peaks,Climbing the Seven Summits
+11/10/2025,Michelle Brown,China,30,Female,Icefall,6400,Camp 2,6400m,South Col Route (Nepal),Autumn (Oct-Nov),Snowstorm,Novice,First 8000m peak,Peak Freaks
+11/17/2025,Kenji Jones,China,32,Female,Exhaustion,8000,Geneva Spur,,Southwest Face,Autumn (Oct-Nov),Blizzard,Novice,First 8000m peak,Independent/Private
+11/17/2025,Hiroshi Martin,Spain,31,Female,Frostbite complications,8750,South Summit,8750m,Northeast Ridge Route (Tibet),Autumn (Oct-Nov),Snowstorm,Professional Guide,,Peak Freaks
+11/25/2025,Susan Wright,Germany,28,Male,Hypothermia,8400,Camp 3,7162m,Southwest Face,Autumn (Oct-Nov),Extreme cold,Novice,First 8000m peak,Mountain Madness
+11/25/2025,Kimberly Wilson,Austria,30,Female,Rockfall,8400,Camp 1,6065m,South Col Route (Nepal),Autumn (Oct-Nov),High winds,Intermediate,1-2 previous 8000m peaks,Peak Freaks
+11/25/2025,Mei Smith,China,37,Male,Avalanche,8750,Camp 1,6065m,North Face,Autumn (Oct-Nov),Cloudy,Experienced,3-5 previous 8000m peaks,International Mountain Guides
+12/6/2025,Jennifer Moore,Denmark,22,Male,Frostbite complications,6400,Camp 4,South Col - 8000m,West Ridge,Winter (Dec-Feb),Whiteout,Experienced,3-5 previous 8000m peaks,Peak Freaks
+12/7/2025,Hiroshi Harris,South Korea,25,Female,Altitude Sickness (AMS/HAPE/HACE),8790,Khumbu Icefall,,East Face,Winter (Dec-Feb),Extreme cold,Expert,6+ previous 8000m peaks,International Mountain Guides
+12/15/2025,Steven Flores,China,30,Male,Cerebral edema,8000,Camp 3,7162m,Southwest Face,Winter (Dec-Feb),Extreme cold,Intermediate,1-2 previous 8000m peaks,Altitude Junkies
+12/16/2025,Chen Liu,Finland,31,Female,Altitude Sickness (AMS/HAPE/HACE),8750,Western Cwm,,North Face,Winter (Dec-Feb),Cloudy,Expert,6+ previous 8000m peaks,Asian Trekking
+12/18/2025,Kenji Kumar,United Kingdom,24,Female,Rockfall,6400,Camp 3,7162m,North Face,Winter (Dec-Feb),High winds,Intermediate,1-2 previous 8000m peaks,Alpine Ascents
+12/29/2025,Donna Kato,Czech Republic,35,Male,Disorientation/Lost,6065,Camp 2,6400m,South Col Route (Nepal),Winter (Dec-Feb),Extreme cold,Intermediate,1-2 previous 8000m peaks,Mountain Madness
