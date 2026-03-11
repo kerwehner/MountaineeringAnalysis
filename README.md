@@ -1,4 +1,5 @@
-# Mountain Deaths Analysis: Statistical Trends and Predictions
+# Mountain Deaths Analysis
+# Statistical Trends and Predictions
 ![Everest](images/everest.jpg)
 
 ## Overview
