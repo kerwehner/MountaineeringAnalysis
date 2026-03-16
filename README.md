@@ -36,6 +36,8 @@ A comprehensive statistical and machine learning analysis of mountaineering fata
 
 ![Deaths by Mountain](images/deathsbymountain10.png)
 ![Linear vs Polynomial](images/lrmvprm.png)
+
+**Interactive Map**
 ![Interactive Map](maps/mountain_deaths_interactive_map.html)
 
 **Takeaway:** While some peaks show clear trends, individual mountain deaths remain largely random year-to-year.
