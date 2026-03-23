@@ -115,5 +115,5 @@ More climbers + guided expeditions = more exposure to risk.
 ---
 
 ## 👤 Author
-** Kerry Wehner **
+**Kerry Wehner**
 
