@@ -1,4 +1,5 @@
-# 🏔️ Mountaineering Fatality Analysis
+# Mountain Deaths Analysis: Trends and Predictions
+![Everest](images/everest.jpg)
 
 An end-to-end data analysis and machine learning project exploring **fatalities across major Himalayan peaks**, with a deep dive into Mount Everest.
 
@@ -27,7 +28,10 @@ Explore fatalities geographically:
 
 > **Nepalese climbers account for the highest number of fatalities across all peaks.**
 
-This reflects their critical role in expeditions, taking on disproportionate risk as the commercialization of mountaineering becomes increasingly popular.
+**Interactive Map**
+![Interactive Map](maps/mountain_deaths_interactive_map.html)
+
+**Takeaway:** While some peaks show clear trends, individual mountain deaths remain largely random year-to-year.
 
 ![Deaths by Nationality](https://github.com/kerwehner/MountaineeringAnalysis/wiki/images/bynationality15.png)
 
@@ -114,5 +118,6 @@ More climbers + guided expeditions = more exposure to risk.
 ---
 
 ## 👤 Author
+** Kerry Wehner **
 
-**Kerry Wehner**  
+📚 **[Read Full Analysis & Methodology in Wiki](../../wiki)**
