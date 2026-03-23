@@ -28,9 +28,6 @@ Explore fatalities geographically:
 
 > **Nepalese climbers account for the highest number of fatalities across all peaks.**
 
-**Interactive Map**
-![Interactive Map](maps/mountain_deaths_interactive_map.html)
-
 **Takeaway:** While some peaks show clear trends, individual mountain deaths remain largely random year-to-year.
 
 ![Deaths by Nationality](https://github.com/kerwehner/MountaineeringAnalysis/wiki/images/bynationality15.png)
